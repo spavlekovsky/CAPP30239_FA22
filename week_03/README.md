@@ -1,0 +1,1 @@
+This subdirectory has code for building a bar chart of COVID cases as we did in class.
