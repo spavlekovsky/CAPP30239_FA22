@@ -9,7 +9,7 @@ d3.csv("covid.csv").then(data => {
         d.cases = +d.cases
     }
 
-    // console.log(data)
+    console.log(data)
     
     // margin is an object
     const height = 400,
