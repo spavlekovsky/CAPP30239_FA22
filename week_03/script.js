@@ -20,8 +20,8 @@ d3.csv("covid.csv").then(data => {
     // viewbox allows you to resize image based on different screen sizes
     let svg = d3.select("#chart")
                 .append("svg")
-                .attr("viewbox", [0, 0, width, height]);
-    
+                .attr("viewBox", [0, 0, width, height]);
+
     // many different scales, scaleBand specifically meant for bar charts
     // give it domain (number values, categories, etc) and range (how much space on the page)
     const x = d3.scaleBand()

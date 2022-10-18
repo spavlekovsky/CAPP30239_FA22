@@ -9,11 +9,11 @@ d3.csv("library_visits_jan22.csv").then(data => {
     
     const height = 400,
           width = 600,
-          margin = ({top: 25, right: 30, bottom: 35, left: 60});
+          margin = ({top: 25, right: 30, bottom: 80, left: 60});
 
     let svg = d3.select("#chart")
                 .append("svg")
-                .attr("viewbox", [0, 0, width, height]);
+                .attr("viewBox", [0, 0, width, height]);
     
     const x = d3.scaleBand()
                 .domain(data.map(d => d.branch))
@@ -26,14 +26,8 @@ d3.csv("library_visits_jan22.csv").then(data => {
 
     const xAxis = g => g
         .attr("transform", `translate(0,${height - margin.bottom + 5})`)
+        .attr('class', 'x-ax')
         .call(d3.axisBottom(x))
-
-    // I was trying to rotate the axis labels so they fit, but I could not figure out how to
-    // *only* select the x-axis ticks so I had to just make all the texst small
-
-    // xAxis.selectAll(".tick text")
-    //     .attr("text-anchor", "end")
-    //     .attr("rotate","-40");
     
     const yAxis = g => g
         .attr("transform", `translate(0${margin.left - 5})`)
@@ -46,6 +40,10 @@ d3.csv("library_visits_jan22.csv").then(data => {
 
     // g.selectAll(".xAxis>.tick>text)
     //     .attr("rotate","-40")
+
+    svg.selectAll(".x-ax .tick text")
+    .attr("text-anchor", "end")
+    .attr("transform", "rotate(-40)");
 
     let bar = svg.selectAll(".bar")
         .append("g")
