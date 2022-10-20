@@ -60,6 +60,17 @@ d3.csv('long-term-interest-monthly.csv').then(data => {
       .attr("d", area)
       .attr("fill", "steelblue")
       .attr("fill-opacity", "50%")
+      .attr("stroke", 'none');
+
+    // added line so that there would only be a line on the relevant data not all 4 sides of the area
+    let line = d3.line()
+      .x(d => x(d.Date))
+      .y(d => y(d.Value));
+
+    svg.append("path")
+      .datum(data)
+      .attr("d", line)
+      .attr("fill", "none")
       .attr("stroke", 'steelblue')
       .attr("stroke-width", "1.5px");
   });
