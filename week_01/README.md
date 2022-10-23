@@ -5,4 +5,4 @@ I am a second year MSCAPP student at Harris. My policy interests center around e
 This subdirectory contains practice files for HTML and my Data Selfie image, which displays some facts about my life and personality following a standard guide.
 
 Here is my Data Selfie:
-![](DataSelfie.jpg)
+![](./homework/DataSelfie.jpg)
