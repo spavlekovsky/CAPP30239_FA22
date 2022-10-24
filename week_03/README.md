@@ -9,4 +9,5 @@ Census Bureau data source: https://data.census.gov/cedsci/all?q=Commuting&g=0100
 I am considering, however, using this project as an opportunity to explore something fun outside of my normal policy interests. So, I might change my mind and upload different data.
 
 [Library Chart](./homework/homework.html)
+
 [Home](../README.md)
