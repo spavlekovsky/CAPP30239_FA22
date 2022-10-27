@@ -2,7 +2,7 @@
 
 ## Sam Pavlekovsky
 
-This site contains the classwork, homework, and project work for Data Visualization, CAPP 30239. Each week has a folder containing subdirectories for those three categories (if applicable).
+This site contains the classwork, homework, and project work for Data Visualization, CAPP 30239. Each week has a folder containing subdirectories for those three categories, where applicable. (Class files are predominantly examples provided by the teacher.)
 
 [Week 1](./week_01/README.md)
 
@@ -12,4 +12,4 @@ This site contains the classwork, homework, and project work for Data Visualizat
 
 [Week 4](./week_04/README.md)
 
-I need to update the week READMEs.
+[Week 5](./week_05/README.md)

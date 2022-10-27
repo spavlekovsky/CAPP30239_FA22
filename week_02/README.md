@@ -1,3 +1,8 @@
-This subdirectory contains practice files for JavaScript and HTML, as well as images for the Dear Data project in which I collected and visualized data on a "mundane" aspect of my life.
+## Week 2
 
-[Dear Data project](./homework/DearData.md)
+### Directory Contents
+| Homework | Class |
+| ----------- | ----------- |
+| [Dear Data project](./homework/DearData.md) | [Introduction to JavaScript](./class/index.html) |
+
+In the Dear Data project, I collected and visualized data on a "mundane" aspect of my life.
