@@ -1,0 +1,1579 @@
+Year,Country of origin,Country of origin (ISO),Country of asylum,Country of asylum (ISO),Refugees under UNHCR's mandate,Asylum-seekers,Others of concern,Total,Change
+2010,Algeria,DZA,Egypt,EGY,5,5,0,10,
+2011,Algeria,DZA,Egypt,EGY,5,5,0,10,0
+2012,Algeria,DZA,Egypt,EGY,5,5,0,10,0
+2013,Algeria,DZA,Egypt,EGY,5,5,0,10,0
+2014,Algeria,DZA,Egypt,EGY,5,0,0,5,-5
+2015,Algeria,DZA,Egypt,EGY,0,5,0,5,0
+2014,Algeria,DZA,Iraq,IRQ,0,7,0,7,
+2013,Algeria,DZA,Jordan,JOR,0,5,0,5,
+2014,Algeria,DZA,Jordan,JOR,0,5,0,5,0
+2015,Algeria,DZA,Jordan,JOR,0,5,0,5,0
+2016,Algeria,DZA,Jordan,JOR,0,7,0,7,2
+2017,Algeria,DZA,Jordan,JOR,5,7,0,12,5
+2018,Algeria,DZA,Jordan,JOR,5,8,0,13,1
+2019,Algeria,DZA,Jordan,JOR,0,7,0,7,-6
+2020,Algeria,DZA,Jordan,JOR,0,6,0,6,-1
+2021,Algeria,DZA,Jordan,JOR,0,5,0,5,-1
+2022,Algeria,DZA,Jordan,JOR,0,5,0,5,0
+2010,Algeria,DZA,Lebanon,LBN,5,0,0,5,
+2012,Algeria,DZA,Lebanon,LBN,5,0,0,5,0
+2013,Algeria,DZA,Lebanon,LBN,0,0,10,10,5
+2014,Algeria,DZA,Lebanon,LBN,0,0,12,12,2
+2015,Algeria,DZA,Lebanon,LBN,0,0,12,12,0
+2016,Algeria,DZA,Lebanon,LBN,0,0,7,7,-5
+2017,Algeria,DZA,Lebanon,LBN,0,5,7,12,5
+2018,Algeria,DZA,Lebanon,LBN,0,0,11,11,-1
+2019,Algeria,DZA,Lebanon,LBN,0,6,9,15,4
+2020,Algeria,DZA,Lebanon,LBN,6,7,9,22,7
+2021,Algeria,DZA,Lebanon,LBN,6,6,10,22,0
+2022,Algeria,DZA,Lebanon,LBN,5,6,11,22,0
+2010,Algeria,DZA,Libya,LBY,6,0,0,6,
+2011,Algeria,DZA,Libya,LBY,6,0,0,6,0
+2012,Algeria,DZA,Libya,LBY,6,0,0,6,0
+2013,Algeria,DZA,Libya,LBY,6,0,0,6,0
+2014,Algeria,DZA,Libya,LBY,5,0,0,5,-1
+2015,Algeria,DZA,Libya,LBY,5,0,0,5,0
+2016,Algeria,DZA,Libya,LBY,5,0,0,5,0
+2017,Algeria,DZA,Libya,LBY,5,0,0,5,0
+2018,Algeria,DZA,Libya,LBY,5,0,0,5,0
+2017,Algeria,DZA,Mauritania,MRT,0,13,0,13,
+2018,Algeria,DZA,Mauritania,MRT,0,5,0,5,-8
+2010,Algeria,DZA,Morocco,MAR,0,5,0,5,
+2012,Algeria,DZA,Morocco,MAR,0,5,0,5,0
+2013,Algeria,DZA,Morocco,MAR,0,5,0,5,0
+2014,Algeria,DZA,Morocco,MAR,0,10,0,10,5
+2015,Algeria,DZA,Morocco,MAR,0,5,0,5,-5
+2016,Algeria,DZA,Morocco,MAR,5,10,0,15,10
+2017,Algeria,DZA,Morocco,MAR,5,5,0,10,-5
+2018,Algeria,DZA,Morocco,MAR,6,10,0,16,6
+2019,Algeria,DZA,Morocco,MAR,9,5,0,14,-2
+2020,Algeria,DZA,Morocco,MAR,9,14,0,23,9
+2021,Algeria,DZA,Morocco,MAR,10,14,0,24,1
+2022,Algeria,DZA,Morocco,MAR,10,13,0,23,-1
+2010,Algeria,DZA,Syrian Arab Rep.,SYR,0,20,0,20,
+2011,Algeria,DZA,Syrian Arab Rep.,SYR,13,17,0,30,10
+2012,Algeria,DZA,Syrian Arab Rep.,SYR,17,5,0,22,-8
+2013,Algeria,DZA,Syrian Arab Rep.,SYR,9,12,0,21,-1
+2014,Algeria,DZA,Syrian Arab Rep.,SYR,9,20,0,29,8
+2015,Algeria,DZA,Syrian Arab Rep.,SYR,8,28,0,36,7
+2016,Algeria,DZA,Syrian Arab Rep.,SYR,6,25,0,31,-5
+2017,Algeria,DZA,Syrian Arab Rep.,SYR,5,0,0,5,-26
+2018,Algeria,DZA,Syrian Arab Rep.,SYR,5,0,0,5,0
+2019,Algeria,DZA,Syrian Arab Rep.,SYR,5,0,0,5,0
+2020,Algeria,DZA,Syrian Arab Rep.,SYR,5,0,0,5,0
+2021,Algeria,DZA,Syrian Arab Rep.,SYR,5,0,0,5,0
+2022,Algeria,DZA,Syrian Arab Rep.,SYR,5,0,0,5,0
+2010,Algeria,DZA,Tunisia,TUN,21,0,0,21,
+2011,Algeria,DZA,Tunisia,TUN,22,0,0,22,1
+2012,Algeria,DZA,Tunisia,TUN,20,0,0,20,-2
+2013,Algeria,DZA,Tunisia,TUN,20,0,0,20,0
+2014,Algeria,DZA,Tunisia,TUN,15,0,0,15,-5
+2015,Algeria,DZA,Tunisia,TUN,13,0,0,13,-2
+2016,Algeria,DZA,Tunisia,TUN,7,0,0,7,-6
+2017,Algeria,DZA,Tunisia,TUN,7,0,0,7,0
+2018,Algeria,DZA,Tunisia,TUN,8,5,0,13,6
+2019,Algeria,DZA,Tunisia,TUN,9,13,0,22,9
+2020,Algeria,DZA,Tunisia,TUN,9,16,0,25,3
+2021,Algeria,DZA,Tunisia,TUN,10,12,0,22,-3
+2022,Algeria,DZA,Tunisia,TUN,11,10,0,21,-1
+2019,Algeria,DZA,United Arab Emirates,ARE,0,0,5,5,
+2020,Algeria,DZA,United Arab Emirates,ARE,0,0,5,5,0
+2021,Algeria,DZA,United Arab Emirates,ARE,0,0,5,5,0
+2022,Algeria,DZA,United Arab Emirates,ARE,0,0,5,5,0
+2010,Algeria,DZA,Yemen,YEM,5,5,0,10,
+2018,Algeria,DZA,Yemen,YEM,0,5,0,5,-5
+2016,Bahrain,BHR,Iraq,IRQ,0,34,0,34,
+2017,Bahrain,BHR,Iraq,IRQ,0,39,0,39,5
+2018,Bahrain,BHR,Iraq,IRQ,0,20,0,20,-19
+2019,Bahrain,BHR,Iraq,IRQ,0,23,0,23,3
+2020,Bahrain,BHR,Iraq,IRQ,0,25,0,25,2
+2021,Bahrain,BHR,Iraq,IRQ,0,25,0,25,0
+2022,Bahrain,BHR,Iraq,IRQ,0,25,0,25,0
+2012,Bahrain,BHR,Lebanon,LBN,0,5,0,5,
+2013,Bahrain,BHR,Lebanon,LBN,0,10,7,17,12
+2014,Bahrain,BHR,Lebanon,LBN,9,10,7,26,9
+2015,Bahrain,BHR,Lebanon,LBN,19,15,0,34,8
+2016,Bahrain,BHR,Lebanon,LBN,24,5,0,29,-5
+2017,Bahrain,BHR,Lebanon,LBN,27,10,0,37,8
+2018,Bahrain,BHR,Lebanon,LBN,25,12,0,37,0
+2019,Bahrain,BHR,Lebanon,LBN,19,7,0,26,-11
+2020,Bahrain,BHR,Lebanon,LBN,16,6,0,22,-4
+2021,Bahrain,BHR,Lebanon,LBN,14,5,0,19,-3
+2022,Bahrain,BHR,Lebanon,LBN,14,5,0,19,0
+2016,Bahrain,BHR,Syrian Arab Rep.,SYR,0,5,0,5,
+2017,Bahrain,BHR,Syrian Arab Rep.,SYR,0,5,0,5,0
+2018,Bahrain,BHR,Syrian Arab Rep.,SYR,0,5,0,5,0
+2019,Bahrain,BHR,Syrian Arab Rep.,SYR,0,5,0,5,0
+2020,Bahrain,BHR,Syrian Arab Rep.,SYR,0,5,0,5,0
+2021,Bahrain,BHR,Syrian Arab Rep.,SYR,0,5,0,5,0
+2022,Bahrain,BHR,Syrian Arab Rep.,SYR,5,0,0,5,0
+2013,Egypt,EGY,Bahrain,BHR,0,5,0,5,
+2014,Egypt,EGY,Bahrain,BHR,0,5,0,5,0
+2015,Egypt,EGY,Bahrain,BHR,0,5,0,5,0
+2016,Egypt,EGY,Bahrain,BHR,0,5,0,5,0
+2017,Egypt,EGY,Bahrain,BHR,0,5,0,5,0
+2018,Egypt,EGY,Bahrain,BHR,0,5,0,5,0
+2019,Egypt,EGY,Bahrain,BHR,0,5,0,5,0
+2020,Egypt,EGY,Bahrain,BHR,0,5,0,5,0
+2021,Egypt,EGY,Bahrain,BHR,0,5,0,5,0
+2022,Egypt,EGY,Bahrain,BHR,0,5,0,5,0
+2012,Egypt,EGY,Iraq,IRQ,5,0,0,5,
+2013,Egypt,EGY,Iraq,IRQ,0,24,0,24,19
+2014,Egypt,EGY,Iraq,IRQ,0,27,0,27,3
+2015,Egypt,EGY,Iraq,IRQ,0,28,0,28,1
+2016,Egypt,EGY,Iraq,IRQ,0,12,61,73,45
+2017,Egypt,EGY,Iraq,IRQ,0,23,0,23,-50
+2018,Egypt,EGY,Iraq,IRQ,0,24,0,24,1
+2019,Egypt,EGY,Iraq,IRQ,0,22,0,22,-2
+2020,Egypt,EGY,Iraq,IRQ,0,23,0,23,1
+2021,Egypt,EGY,Iraq,IRQ,0,22,0,22,-1
+2022,Egypt,EGY,Iraq,IRQ,0,42,0,42,20
+2010,Egypt,EGY,Israel,ISR,0,9,0,9,
+2016,Egypt,EGY,Israel,ISR,0,10,0,10,1
+2017,Egypt,EGY,Israel,ISR,0,12,0,12,2
+2018,Egypt,EGY,Israel,ISR,0,12,0,12,0
+2019,Egypt,EGY,Israel,ISR,0,12,0,12,0
+2010,Egypt,EGY,Jordan,JOR,21,75,0,96,
+2011,Egypt,EGY,Jordan,JOR,29,190,0,219,123
+2012,Egypt,EGY,Jordan,JOR,21,116,0,137,-82
+2013,Egypt,EGY,Jordan,JOR,36,111,0,147,10
+2014,Egypt,EGY,Jordan,JOR,44,231,0,275,128
+2015,Egypt,EGY,Jordan,JOR,56,212,0,268,-7
+2016,Egypt,EGY,Jordan,JOR,69,298,0,367,99
+2017,Egypt,EGY,Jordan,JOR,79,564,0,643,276
+2018,Egypt,EGY,Jordan,JOR,105,676,0,781,138
+2019,Egypt,EGY,Jordan,JOR,100,587,13,700,-81
+2020,Egypt,EGY,Jordan,JOR,114,544,20,678,-22
+2021,Egypt,EGY,Jordan,JOR,128,507,19,654,-24
+2022,Egypt,EGY,Jordan,JOR,126,482,18,626,-28
+2010,Egypt,EGY,Kuwait,KWT,0,7,0,7,
+2011,Egypt,EGY,Kuwait,KWT,0,8,0,8,1
+2012,Egypt,EGY,Kuwait,KWT,0,19,0,19,11
+2013,Egypt,EGY,Kuwait,KWT,5,18,0,23,4
+2014,Egypt,EGY,Kuwait,KWT,5,18,0,23,0
+2015,Egypt,EGY,Kuwait,KWT,0,22,0,22,-1
+2016,Egypt,EGY,Kuwait,KWT,0,18,0,18,-4
+2017,Egypt,EGY,Kuwait,KWT,0,18,0,18,0
+2018,Egypt,EGY,Kuwait,KWT,0,18,0,18,0
+2019,Egypt,EGY,Kuwait,KWT,5,19,0,24,6
+2020,Egypt,EGY,Kuwait,KWT,5,19,0,24,0
+2021,Egypt,EGY,Kuwait,KWT,6,19,0,25,1
+2022,Egypt,EGY,Kuwait,KWT,6,19,0,25,0
+2010,Egypt,EGY,Lebanon,LBN,9,22,0,31,
+2011,Egypt,EGY,Lebanon,LBN,5,41,0,46,15
+2012,Egypt,EGY,Lebanon,LBN,17,112,0,129,83
+2013,Egypt,EGY,Lebanon,LBN,28,110,0,138,9
+2014,Egypt,EGY,Lebanon,LBN,26,81,42,149,11
+2015,Egypt,EGY,Lebanon,LBN,45,123,52,220,71
+2016,Egypt,EGY,Lebanon,LBN,35,139,50,224,4
+2017,Egypt,EGY,Lebanon,LBN,66,166,41,273,49
+2018,Egypt,EGY,Lebanon,LBN,70,246,41,357,84
+2019,Egypt,EGY,Lebanon,LBN,88,293,27,408,51
+2020,Egypt,EGY,Lebanon,LBN,88,300,25,413,5
+2021,Egypt,EGY,Lebanon,LBN,121,370,38,529,116
+2022,Egypt,EGY,Lebanon,LBN,129,446,76,651,122
+2010,Egypt,EGY,Libya,LBY,5,0,0,5,
+2011,Egypt,EGY,Libya,LBY,5,0,0,5,0
+2012,Egypt,EGY,Libya,LBY,5,0,0,5,0
+2013,Egypt,EGY,Libya,LBY,5,0,0,5,0
+2014,Egypt,EGY,Libya,LBY,5,0,0,5,0
+2015,Egypt,EGY,Libya,LBY,5,0,0,5,0
+2016,Egypt,EGY,Libya,LBY,5,0,0,5,0
+2017,Egypt,EGY,Libya,LBY,5,0,0,5,0
+2017,Egypt,EGY,Mauritania,MRT,0,5,0,5,
+2017,Egypt,EGY,Morocco,MAR,0,5,0,5,
+2018,Egypt,EGY,Morocco,MAR,0,5,0,5,0
+2019,Egypt,EGY,Morocco,MAR,0,5,0,5,0
+2020,Egypt,EGY,Morocco,MAR,5,10,0,15,10
+2021,Egypt,EGY,Morocco,MAR,5,11,0,16,1
+2022,Egypt,EGY,Morocco,MAR,5,11,0,16,0
+2016,Egypt,EGY,Qatar,QAT,0,9,0,9,
+2017,Egypt,EGY,Qatar,QAT,9,0,0,9,0
+2018,Egypt,EGY,Qatar,QAT,9,0,0,9,0
+2019,Egypt,EGY,Qatar,QAT,13,8,0,21,12
+2020,Egypt,EGY,Qatar,QAT,13,21,0,34,13
+2021,Egypt,EGY,Qatar,QAT,13,22,0,35,1
+2022,Egypt,EGY,Qatar,QAT,13,18,0,31,-4
+2010,Egypt,EGY,Saudi Arabia,SAU,0,5,0,5,
+2020,Egypt,EGY,Saudi Arabia,SAU,0,16,0,16,11
+2021,Egypt,EGY,Saudi Arabia,SAU,0,20,0,20,4
+2022,Egypt,EGY,Saudi Arabia,SAU,0,24,0,24,4
+2010,Egypt,EGY,Syrian Arab Rep.,SYR,14,28,0,42,
+2011,Egypt,EGY,Syrian Arab Rep.,SYR,33,18,0,51,9
+2012,Egypt,EGY,Syrian Arab Rep.,SYR,26,48,0,74,23
+2013,Egypt,EGY,Syrian Arab Rep.,SYR,16,84,0,100,26
+2014,Egypt,EGY,Syrian Arab Rep.,SYR,18,106,0,124,24
+2015,Egypt,EGY,Syrian Arab Rep.,SYR,27,107,0,134,10
+2016,Egypt,EGY,Syrian Arab Rep.,SYR,28,98,0,126,-8
+2017,Egypt,EGY,Syrian Arab Rep.,SYR,35,12,0,47,-79
+2018,Egypt,EGY,Syrian Arab Rep.,SYR,35,5,0,40,-7
+2019,Egypt,EGY,Syrian Arab Rep.,SYR,33,10,0,43,3
+2020,Egypt,EGY,Syrian Arab Rep.,SYR,32,10,0,42,-1
+2021,Egypt,EGY,Syrian Arab Rep.,SYR,32,10,0,42,0
+2022,Egypt,EGY,Syrian Arab Rep.,SYR,31,16,0,47,5
+2011,Egypt,EGY,Tunisia,TUN,0,19,0,19,
+2012,Egypt,EGY,Tunisia,TUN,0,20,0,20,1
+2019,Egypt,EGY,Tunisia,TUN,0,5,0,5,-15
+2020,Egypt,EGY,Tunisia,TUN,0,10,0,10,5
+2021,Egypt,EGY,Tunisia,TUN,0,15,0,15,5
+2022,Egypt,EGY,Tunisia,TUN,0,15,0,15,0
+2018,Egypt,EGY,United Arab Emirates,ARE,0,0,6,6,
+2019,Egypt,EGY,United Arab Emirates,ARE,8,6,10,24,18
+2020,Egypt,EGY,United Arab Emirates,ARE,5,8,10,23,-1
+2021,Egypt,EGY,United Arab Emirates,ARE,5,8,10,23,0
+2022,Egypt,EGY,United Arab Emirates,ARE,5,7,10,22,-1
+2010,Egypt,EGY,Yemen,YEM,14,14,0,28,
+2011,Egypt,EGY,Yemen,YEM,14,11,0,25,-3
+2012,Egypt,EGY,Yemen,YEM,14,11,0,25,0
+2013,Egypt,EGY,Yemen,YEM,14,13,0,27,2
+2014,Egypt,EGY,Yemen,YEM,15,11,0,26,-1
+2015,Egypt,EGY,Yemen,YEM,15,13,0,28,2
+2016,Egypt,EGY,Yemen,YEM,16,5,0,21,-7
+2017,Egypt,EGY,Yemen,YEM,16,5,0,21,0
+2018,Egypt,EGY,Yemen,YEM,16,5,0,21,0
+2019,Egypt,EGY,Yemen,YEM,16,9,0,25,4
+2020,Egypt,EGY,Yemen,YEM,16,10,0,26,1
+2021,Egypt,EGY,Yemen,YEM,16,10,0,26,0
+2022,Egypt,EGY,Yemen,YEM,18,8,0,26,0
+2010,Iraq,IRQ,Algeria,DZA,15,5,0,20,
+2011,Iraq,IRQ,Algeria,DZA,15,5,0,20,0
+2012,Iraq,IRQ,Algeria,DZA,15,5,0,20,0
+2013,Iraq,IRQ,Algeria,DZA,15,5,0,20,0
+2014,Iraq,IRQ,Algeria,DZA,16,10,0,26,6
+2015,Iraq,IRQ,Algeria,DZA,21,5,0,26,0
+2016,Iraq,IRQ,Algeria,DZA,13,5,0,18,-8
+2017,Iraq,IRQ,Algeria,DZA,13,5,0,18,0
+2018,Iraq,IRQ,Algeria,DZA,13,0,0,13,-5
+2019,Iraq,IRQ,Algeria,DZA,12,5,0,17,4
+2020,Iraq,IRQ,Algeria,DZA,12,5,0,17,0
+2021,Iraq,IRQ,Algeria,DZA,13,5,0,18,1
+2022,Iraq,IRQ,Algeria,DZA,16,0,0,16,-2
+2010,Iraq,IRQ,Bahrain,BHR,165,66,0,231,
+2011,Iraq,IRQ,Bahrain,BHR,199,151,0,350,119
+2012,Iraq,IRQ,Bahrain,BHR,289,41,0,330,-20
+2013,Iraq,IRQ,Bahrain,BHR,294,47,0,341,11
+2014,Iraq,IRQ,Bahrain,BHR,303,39,0,342,1
+2015,Iraq,IRQ,Bahrain,BHR,237,96,0,333,-9
+2016,Iraq,IRQ,Bahrain,BHR,251,95,0,346,13
+2017,Iraq,IRQ,Bahrain,BHR,246,95,0,341,-5
+2018,Iraq,IRQ,Bahrain,BHR,253,48,0,301,-40
+2019,Iraq,IRQ,Bahrain,BHR,242,48,0,290,-11
+2020,Iraq,IRQ,Bahrain,BHR,242,59,0,301,11
+2021,Iraq,IRQ,Bahrain,BHR,242,117,0,359,58
+2022,Iraq,IRQ,Bahrain,BHR,241,117,0,358,-1
+2010,Iraq,IRQ,Egypt,EGY,6772,167,0,6939,
+2011,Iraq,IRQ,Egypt,EGY,6037,1401,0,7438,499
+2012,Iraq,IRQ,Egypt,EGY,5703,1092,0,6795,-643
+2013,Iraq,IRQ,Egypt,EGY,5506,1483,0,6989,194
+2014,Iraq,IRQ,Egypt,EGY,5149,1723,0,6872,-117
+2015,Iraq,IRQ,Egypt,EGY,4347,2844,0,7191,319
+2016,Iraq,IRQ,Egypt,EGY,4362,3129,0,7491,300
+2017,Iraq,IRQ,Egypt,EGY,4275,2388,0,6663,-828
+2018,Iraq,IRQ,Egypt,EGY,4346,2648,0,6994,331
+2019,Iraq,IRQ,Egypt,EGY,4426,2345,0,6771,-223
+2020,Iraq,IRQ,Egypt,EGY,4660,2144,0,6804,33
+2021,Iraq,IRQ,Egypt,EGY,4629,2178,0,6807,3
+2022,Iraq,IRQ,Egypt,EGY,4545,2252,0,6797,-10
+2010,Iraq,IRQ,Iraq,IRQ,0,0,0,0,
+2011,Iraq,IRQ,Iraq,IRQ,0,0,0,0,0
+2012,Iraq,IRQ,Iraq,IRQ,0,0,0,0,0
+2013,Iraq,IRQ,Iraq,IRQ,0,0,0,0,0
+2014,Iraq,IRQ,Iraq,IRQ,0,0,15,15,15
+2015,Iraq,IRQ,Iraq,IRQ,0,0,27,27,12
+2016,Iraq,IRQ,Iraq,IRQ,0,0,2135,2135,2108
+2017,Iraq,IRQ,Iraq,IRQ,0,0,0,0,-2135
+2018,Iraq,IRQ,Iraq,IRQ,0,0,6,6,6
+2019,Iraq,IRQ,Iraq,IRQ,0,0,5,5,-1
+2020,Iraq,IRQ,Iraq,IRQ,0,0,5,5,0
+2021,Iraq,IRQ,Iraq,IRQ,0,0,702,702,697
+2022,Iraq,IRQ,Iraq,IRQ,0,0,783,783,81
+2014,Iraq,IRQ,Israel,ISR,9,0,0,9,
+2015,Iraq,IRQ,Israel,ISR,9,0,0,9,0
+2016,Iraq,IRQ,Israel,ISR,10,0,0,10,1
+2017,Iraq,IRQ,Israel,ISR,10,0,0,10,0
+2018,Iraq,IRQ,Israel,ISR,10,0,0,10,0
+2019,Iraq,IRQ,Israel,ISR,10,0,0,10,0
+2020,Iraq,IRQ,Israel,ISR,10,0,0,10,0
+2021,Iraq,IRQ,Israel,ISR,10,0,0,10,0
+2022,Iraq,IRQ,Israel,ISR,10,0,0,10,0
+2010,Iraq,IRQ,Jordan,JOR,450000,1360,0,451360,
+2011,Iraq,IRQ,Jordan,JOR,450000,1465,0,451465,105
+2012,Iraq,IRQ,Jordan,JOR,63037,1584,0,64621,-386844
+2013,Iraq,IRQ,Jordan,JOR,55509,2435,0,57944,-6677
+2014,Iraq,IRQ,Jordan,JOR,29263,15313,0,44576,-13368
+2015,Iraq,IRQ,Jordan,JOR,33256,19478,0,52734,8158
+2016,Iraq,IRQ,Jordan,JOR,33118,27786,0,60904,8170
+2017,Iraq,IRQ,Jordan,JOR,34037,31885,0,65922,5018
+2018,Iraq,IRQ,Jordan,JOR,34626,33384,0,68010,2088
+2019,Iraq,IRQ,Jordan,JOR,34336,32843,37,67216,-794
+2020,Iraq,IRQ,Jordan,JOR,34318,32474,38,66830,-386
+2021,Iraq,IRQ,Jordan,JOR,34204,32159,39,66402,-428
+2022,Iraq,IRQ,Jordan,JOR,33951,31949,39,65939,-463
+2010,Iraq,IRQ,Kuwait,KWT,123,794,0,917,
+2011,Iraq,IRQ,Kuwait,KWT,247,759,0,1006,89
+2012,Iraq,IRQ,Kuwait,KWT,484,420,0,904,-102
+2013,Iraq,IRQ,Kuwait,KWT,439,281,0,720,-184
+2014,Iraq,IRQ,Kuwait,KWT,438,247,0,685,-35
+2015,Iraq,IRQ,Kuwait,KWT,391,282,0,673,-12
+2016,Iraq,IRQ,Kuwait,KWT,420,265,0,685,12
+2017,Iraq,IRQ,Kuwait,KWT,328,285,0,613,-72
+2018,Iraq,IRQ,Kuwait,KWT,351,283,0,634,21
+2019,Iraq,IRQ,Kuwait,KWT,343,295,0,638,4
+2020,Iraq,IRQ,Kuwait,KWT,351,299,0,650,12
+2021,Iraq,IRQ,Kuwait,KWT,334,308,0,642,-8
+2022,Iraq,IRQ,Kuwait,KWT,334,307,0,641,-1
+2010,Iraq,IRQ,Lebanon,LBN,7630,648,0,8278,
+2011,Iraq,IRQ,Lebanon,LBN,8491,739,0,9230,952
+2012,Iraq,IRQ,Lebanon,LBN,6516,847,0,7363,-1867
+2013,Iraq,IRQ,Lebanon,LBN,4944,982,17,5943,-1420
+2014,Iraq,IRQ,Lebanon,LBN,5986,5418,22,11426,5483
+2015,Iraq,IRQ,Lebanon,LBN,7234,9929,17,17180,5754
+2016,Iraq,IRQ,Lebanon,LBN,6454,11966,15,18435,1255
+2017,Iraq,IRQ,Lebanon,LBN,5695,13612,14,19321,886
+2018,Iraq,IRQ,Lebanon,LBN,4458,13976,7,18441,-880
+2019,Iraq,IRQ,Lebanon,LBN,4551,8911,6,13468,-4973
+2020,Iraq,IRQ,Lebanon,LBN,4049,7350,5,11404,-2064
+2021,Iraq,IRQ,Lebanon,LBN,3750,5233,9,8992,-2412
+2022,Iraq,IRQ,Lebanon,LBN,3389,4756,10,8155,-837
+2010,Iraq,IRQ,Libya,LBY,2885,530,0,3415,
+2011,Iraq,IRQ,Libya,LBY,2736,515,0,3251,-164
+2012,Iraq,IRQ,Libya,LBY,2532,547,0,3079,-172
+2013,Iraq,IRQ,Libya,LBY,2530,533,0,3063,-16
+2014,Iraq,IRQ,Libya,LBY,2520,533,0,3053,-10
+2015,Iraq,IRQ,Libya,LBY,2507,524,0,3031,-22
+2016,Iraq,IRQ,Libya,LBY,2475,547,0,3022,-9
+2017,Iraq,IRQ,Libya,LBY,2459,652,0,3111,89
+2018,Iraq,IRQ,Libya,LBY,1994,648,0,2642,-469
+2019,Iraq,IRQ,Libya,LBY,810,346,0,1156,-1486
+2020,Iraq,IRQ,Libya,LBY,607,329,0,936,-220
+2021,Iraq,IRQ,Libya,LBY,333,187,0,520,-416
+2022,Iraq,IRQ,Libya,LBY,201,102,0,303,-217
+2010,Iraq,IRQ,Mauritania,MRT,51,0,0,51,
+2011,Iraq,IRQ,Mauritania,MRT,30,5,0,35,-16
+2012,Iraq,IRQ,Mauritania,MRT,30,8,0,38,3
+2013,Iraq,IRQ,Mauritania,MRT,23,5,0,28,-10
+2014,Iraq,IRQ,Mauritania,MRT,28,0,0,28,0
+2015,Iraq,IRQ,Mauritania,MRT,31,10,0,41,13
+2016,Iraq,IRQ,Mauritania,MRT,41,0,0,41,0
+2017,Iraq,IRQ,Mauritania,MRT,38,5,0,43,2
+2018,Iraq,IRQ,Mauritania,MRT,24,0,0,24,-19
+2019,Iraq,IRQ,Mauritania,MRT,24,0,0,24,0
+2020,Iraq,IRQ,Mauritania,MRT,25,0,0,25,1
+2021,Iraq,IRQ,Mauritania,MRT,24,0,0,24,-1
+2022,Iraq,IRQ,Mauritania,MRT,24,0,0,24,0
+2010,Iraq,IRQ,Morocco,MAR,168,0,0,168,
+2011,Iraq,IRQ,Morocco,MAR,149,11,0,160,-8
+2012,Iraq,IRQ,Morocco,MAR,147,13,0,160,0
+2013,Iraq,IRQ,Morocco,MAR,100,20,0,120,-40
+2014,Iraq,IRQ,Morocco,MAR,96,16,0,112,-8
+2015,Iraq,IRQ,Morocco,MAR,132,16,0,148,36
+2016,Iraq,IRQ,Morocco,MAR,137,17,0,154,6
+2017,Iraq,IRQ,Morocco,MAR,150,9,0,159,5
+2018,Iraq,IRQ,Morocco,MAR,153,5,0,158,-1
+2019,Iraq,IRQ,Morocco,MAR,137,6,0,143,-15
+2020,Iraq,IRQ,Morocco,MAR,131,6,0,137,-6
+2021,Iraq,IRQ,Morocco,MAR,127,7,0,134,-3
+2022,Iraq,IRQ,Morocco,MAR,128,8,0,136,2
+2010,Iraq,IRQ,Oman,OMN,71,13,0,84,
+2011,Iraq,IRQ,Oman,OMN,76,35,0,111,27
+2012,Iraq,IRQ,Oman,OMN,131,11,0,142,31
+2013,Iraq,IRQ,Oman,OMN,131,70,0,201,59
+2014,Iraq,IRQ,Oman,OMN,143,221,0,364,163
+2015,Iraq,IRQ,Oman,OMN,237,180,0,417,53
+2016,Iraq,IRQ,Oman,OMN,309,354,0,663,246
+2017,Iraq,IRQ,Oman,OMN,301,387,0,688,25
+2018,Iraq,IRQ,Oman,OMN,298,254,0,552,-136
+2019,Iraq,IRQ,Oman,OMN,295,254,0,549,-3
+2020,Iraq,IRQ,Oman,OMN,295,303,0,598,49
+2021,Iraq,IRQ,Oman,OMN,282,459,0,741,143
+2022,Iraq,IRQ,Oman,OMN,282,459,0,741,0
+2010,Iraq,IRQ,Qatar,QAT,38,15,0,53,
+2011,Iraq,IRQ,Qatar,QAT,64,38,0,102,49
+2012,Iraq,IRQ,Qatar,QAT,64,44,0,108,6
+2013,Iraq,IRQ,Qatar,QAT,114,10,0,124,16
+2014,Iraq,IRQ,Qatar,QAT,110,86,0,196,72
+2015,Iraq,IRQ,Qatar,QAT,95,107,0,202,6
+2016,Iraq,IRQ,Qatar,QAT,136,109,0,245,43
+2017,Iraq,IRQ,Qatar,QAT,137,103,0,240,-5
+2018,Iraq,IRQ,Qatar,QAT,138,73,0,211,-29
+2019,Iraq,IRQ,Qatar,QAT,141,73,0,214,3
+2020,Iraq,IRQ,Qatar,QAT,141,89,0,230,16
+2021,Iraq,IRQ,Qatar,QAT,136,126,0,262,32
+2022,Iraq,IRQ,Qatar,QAT,136,126,0,262,0
+2010,Iraq,IRQ,Saudi Arabia,SAU,39,41,0,80,
+2011,Iraq,IRQ,Saudi Arabia,SAU,56,31,0,87,7
+2012,Iraq,IRQ,Saudi Arabia,SAU,50,42,0,92,5
+2013,Iraq,IRQ,Saudi Arabia,SAU,32,42,0,74,-18
+2014,Iraq,IRQ,Saudi Arabia,SAU,32,42,0,74,0
+2015,Iraq,IRQ,Saudi Arabia,SAU,29,23,0,52,-22
+2016,Iraq,IRQ,Saudi Arabia,SAU,31,23,0,54,2
+2017,Iraq,IRQ,Saudi Arabia,SAU,32,28,0,60,6
+2018,Iraq,IRQ,Saudi Arabia,SAU,36,24,0,60,0
+2019,Iraq,IRQ,Saudi Arabia,SAU,31,30,0,61,1
+2020,Iraq,IRQ,Saudi Arabia,SAU,32,191,0,223,162
+2021,Iraq,IRQ,Saudi Arabia,SAU,32,197,0,229,6
+2022,Iraq,IRQ,Saudi Arabia,SAU,32,197,0,229,0
+2010,Iraq,IRQ,Syrian Arab Rep.,SYR,1000000,623,0,1000623,
+2011,Iraq,IRQ,Syrian Arab Rep.,SYR,750000,892,0,750892,-249731
+2012,Iraq,IRQ,Syrian Arab Rep.,SYR,471418,693,0,472111,-278781
+2013,Iraq,IRQ,Syrian Arab Rep.,SYR,146200,878,0,147078,-325033
+2014,Iraq,IRQ,Syrian Arab Rep.,SYR,146200,1214,3270,150684,3606
+2015,Iraq,IRQ,Syrian Arab Rep.,SYR,18253,3491,3554,25298,-125386
+2016,Iraq,IRQ,Syrian Arab Rep.,SYR,16879,10982,13628,41489,16191
+2017,Iraq,IRQ,Syrian Arab Rep.,SYR,16325,17673,11213,45211,3722
+2018,Iraq,IRQ,Syrian Arab Rep.,SYR,15699,18339,7879,41917,-3294
+2019,Iraq,IRQ,Syrian Arab Rep.,SYR,13311,11720,30971,56002,14085
+2020,Iraq,IRQ,Syrian Arab Rep.,SYR,12399,8383,30846,51628,-4374
+2021,Iraq,IRQ,Syrian Arab Rep.,SYR,11394,8406,29494,49294,-2334
+2022,Iraq,IRQ,Syrian Arab Rep.,SYR,11121,7269,28159,46549,-2745
+2010,Iraq,IRQ,Tunisia,TUN,6,0,0,6,
+2011,Iraq,IRQ,Tunisia,TUN,305,0,0,305,299
+2012,Iraq,IRQ,Tunisia,TUN,137,0,0,137,-168
+2013,Iraq,IRQ,Tunisia,TUN,64,9,0,73,-64
+2014,Iraq,IRQ,Tunisia,TUN,17,8,0,25,-48
+2015,Iraq,IRQ,Tunisia,TUN,13,9,0,22,-3
+2016,Iraq,IRQ,Tunisia,TUN,18,11,0,29,7
+2017,Iraq,IRQ,Tunisia,TUN,15,0,0,15,-14
+2018,Iraq,IRQ,Tunisia,TUN,19,5,0,24,9
+2019,Iraq,IRQ,Tunisia,TUN,20,7,0,27,3
+2020,Iraq,IRQ,Tunisia,TUN,20,10,0,30,3
+2021,Iraq,IRQ,Tunisia,TUN,21,11,0,32,2
+2022,Iraq,IRQ,Tunisia,TUN,18,12,0,30,-2
+2010,Iraq,IRQ,United Arab Emirates,ARE,432,14,0,446,
+2011,Iraq,IRQ,United Arab Emirates,ARE,570,0,0,570,124
+2012,Iraq,IRQ,United Arab Emirates,ARE,548,32,0,580,10
+2013,Iraq,IRQ,United Arab Emirates,ARE,540,52,0,592,12
+2014,Iraq,IRQ,United Arab Emirates,ARE,348,200,0,548,-44
+2015,Iraq,IRQ,United Arab Emirates,ARE,589,274,0,863,315
+2016,Iraq,IRQ,United Arab Emirates,ARE,741,354,0,1095,232
+2017,Iraq,IRQ,United Arab Emirates,ARE,697,482,0,1179,84
+2018,Iraq,IRQ,United Arab Emirates,ARE,778,556,9,1343,164
+2019,Iraq,IRQ,United Arab Emirates,ARE,783,560,9,1352,9
+2020,Iraq,IRQ,United Arab Emirates,ARE,809,554,9,1372,20
+2021,Iraq,IRQ,United Arab Emirates,ARE,800,544,7,1351,-21
+2022,Iraq,IRQ,United Arab Emirates,ARE,798,544,7,1349,-2
+2010,Iraq,IRQ,Yemen,YEM,4322,0,0,4322,
+2011,Iraq,IRQ,Yemen,YEM,3940,176,0,4116,-206
+2012,Iraq,IRQ,Yemen,YEM,3431,143,0,3574,-542
+2013,Iraq,IRQ,Yemen,YEM,3416,126,0,3542,-32
+2014,Iraq,IRQ,Yemen,YEM,3391,140,0,3531,-11
+2015,Iraq,IRQ,Yemen,YEM,3404,134,0,3538,7
+2016,Iraq,IRQ,Yemen,YEM,3381,44,0,3425,-113
+2017,Iraq,IRQ,Yemen,YEM,3351,28,0,3379,-46
+2018,Iraq,IRQ,Yemen,YEM,3330,53,0,3383,4
+2019,Iraq,IRQ,Yemen,YEM,3321,73,0,3394,11
+2020,Iraq,IRQ,Yemen,YEM,3321,73,0,3394,0
+2021,Iraq,IRQ,Yemen,YEM,3163,71,0,3234,-160
+2022,Iraq,IRQ,Yemen,YEM,3149,72,0,3221,-13
+2015,Jordan,JOR,Bahrain,BHR,0,7,0,7,
+2016,Jordan,JOR,Bahrain,BHR,0,6,0,6,-1
+2017,Jordan,JOR,Bahrain,BHR,0,6,0,6,0
+2020,Jordan,JOR,Bahrain,BHR,5,0,0,5,-1
+2021,Jordan,JOR,Bahrain,BHR,0,6,0,6,1
+2022,Jordan,JOR,Bahrain,BHR,0,6,0,6,0
+2011,Jordan,JOR,Egypt,EGY,0,5,0,5,
+2012,Jordan,JOR,Egypt,EGY,0,6,0,6,1
+2013,Jordan,JOR,Egypt,EGY,0,9,0,9,3
+2015,Jordan,JOR,Egypt,EGY,0,5,0,5,-4
+2016,Jordan,JOR,Egypt,EGY,0,6,0,6,1
+2017,Jordan,JOR,Egypt,EGY,0,13,0,13,7
+2018,Jordan,JOR,Egypt,EGY,5,12,0,17,4
+2019,Jordan,JOR,Egypt,EGY,11,11,0,22,5
+2020,Jordan,JOR,Egypt,EGY,11,10,0,21,-1
+2021,Jordan,JOR,Egypt,EGY,9,9,0,18,-3
+2022,Jordan,JOR,Egypt,EGY,9,8,0,17,-1
+2012,Jordan,JOR,Iraq,IRQ,0,8,0,8,
+2013,Jordan,JOR,Iraq,IRQ,0,9,0,9,1
+2014,Jordan,JOR,Iraq,IRQ,0,10,0,10,1
+2015,Jordan,JOR,Iraq,IRQ,8,0,0,8,-2
+2016,Jordan,JOR,Iraq,IRQ,9,5,56,70,62
+2017,Jordan,JOR,Iraq,IRQ,9,5,0,14,-56
+2018,Jordan,JOR,Iraq,IRQ,9,5,0,14,0
+2018,Jordan,JOR,Jordan,JOR,0,0,1355,1355,
+2019,Jordan,JOR,Jordan,JOR,0,0,1884,1884,529
+2020,Jordan,JOR,Jordan,JOR,0,0,771,771,-1113
+2021,Jordan,JOR,Jordan,JOR,0,0,797,797,26
+2022,Jordan,JOR,Jordan,JOR,0,0,1126,1126,329
+2010,Jordan,JOR,Kuwait,KWT,0,8,0,8,
+2011,Jordan,JOR,Kuwait,KWT,0,13,0,13,5
+2012,Jordan,JOR,Kuwait,KWT,5,11,0,16,3
+2013,Jordan,JOR,Kuwait,KWT,5,8,0,13,-3
+2014,Jordan,JOR,Kuwait,KWT,5,6,0,11,-2
+2015,Jordan,JOR,Kuwait,KWT,5,5,0,10,-1
+2016,Jordan,JOR,Kuwait,KWT,5,5,0,10,0
+2017,Jordan,JOR,Kuwait,KWT,0,6,0,6,-4
+2018,Jordan,JOR,Kuwait,KWT,0,6,0,6,0
+2019,Jordan,JOR,Kuwait,KWT,0,6,0,6,0
+2020,Jordan,JOR,Kuwait,KWT,0,6,0,6,0
+2021,Jordan,JOR,Kuwait,KWT,0,6,0,6,0
+2022,Jordan,JOR,Kuwait,KWT,0,6,0,6,0
+2010,Jordan,JOR,Lebanon,LBN,18,12,0,30,
+2011,Jordan,JOR,Lebanon,LBN,16,16,0,32,2
+2012,Jordan,JOR,Lebanon,LBN,31,13,0,44,12
+2013,Jordan,JOR,Lebanon,LBN,14,33,74,121,77
+2014,Jordan,JOR,Lebanon,LBN,17,43,102,162,41
+2015,Jordan,JOR,Lebanon,LBN,22,31,92,145,-17
+2016,Jordan,JOR,Lebanon,LBN,25,33,75,133,-12
+2017,Jordan,JOR,Lebanon,LBN,32,48,60,140,7
+2018,Jordan,JOR,Lebanon,LBN,29,66,52,147,7
+2019,Jordan,JOR,Lebanon,LBN,31,93,39,163,16
+2020,Jordan,JOR,Lebanon,LBN,31,88,33,152,-11
+2021,Jordan,JOR,Lebanon,LBN,36,87,34,157,5
+2022,Jordan,JOR,Lebanon,LBN,38,90,50,178,21
+2013,Jordan,JOR,Libya,LBY,0,5,0,5,
+2020,Jordan,JOR,Morocco,MAR,0,5,0,5,
+2021,Jordan,JOR,Morocco,MAR,0,5,0,5,0
+2022,Jordan,JOR,Morocco,MAR,0,5,0,5,0
+2020,Jordan,JOR,Saudi Arabia,SAU,0,8,0,8,
+2021,Jordan,JOR,Saudi Arabia,SAU,0,19,0,19,11
+2022,Jordan,JOR,Saudi Arabia,SAU,0,19,0,19,0
+2010,Jordan,JOR,Syrian Arab Rep.,SYR,49,28,0,77,
+2011,Jordan,JOR,Syrian Arab Rep.,SYR,50,10,0,60,-17
+2012,Jordan,JOR,Syrian Arab Rep.,SYR,53,17,0,70,10
+2013,Jordan,JOR,Syrian Arab Rep.,SYR,26,79,0,105,35
+2014,Jordan,JOR,Syrian Arab Rep.,SYR,23,68,0,91,-14
+2015,Jordan,JOR,Syrian Arab Rep.,SYR,25,73,0,98,7
+2016,Jordan,JOR,Syrian Arab Rep.,SYR,25,43,0,68,-30
+2017,Jordan,JOR,Syrian Arab Rep.,SYR,25,13,0,38,-30
+2018,Jordan,JOR,Syrian Arab Rep.,SYR,19,0,0,19,-19
+2019,Jordan,JOR,Syrian Arab Rep.,SYR,19,0,0,19,0
+2020,Jordan,JOR,Syrian Arab Rep.,SYR,19,0,0,19,0
+2021,Jordan,JOR,Syrian Arab Rep.,SYR,19,0,0,19,0
+2022,Jordan,JOR,Syrian Arab Rep.,SYR,18,7,0,25,6
+2011,Jordan,JOR,Tunisia,TUN,0,6,0,6,
+2018,Jordan,JOR,United Arab Emirates,ARE,0,0,18,18,
+2019,Jordan,JOR,United Arab Emirates,ARE,6,0,25,31,13
+2020,Jordan,JOR,United Arab Emirates,ARE,7,0,26,33,2
+2021,Jordan,JOR,United Arab Emirates,ARE,6,0,26,32,-1
+2022,Jordan,JOR,United Arab Emirates,ARE,7,0,26,33,1
+2010,Jordan,JOR,Yemen,YEM,5,11,0,16,
+2011,Jordan,JOR,Yemen,YEM,9,5,0,14,-2
+2012,Jordan,JOR,Yemen,YEM,8,5,0,13,-1
+2013,Jordan,JOR,Yemen,YEM,8,5,0,13,0
+2014,Jordan,JOR,Yemen,YEM,11,5,0,16,3
+2015,Jordan,JOR,Yemen,YEM,11,5,0,16,0
+2016,Jordan,JOR,Yemen,YEM,12,0,0,12,-4
+2017,Jordan,JOR,Yemen,YEM,12,0,0,12,0
+2018,Jordan,JOR,Yemen,YEM,12,0,0,12,0
+2019,Jordan,JOR,Yemen,YEM,17,8,0,25,13
+2020,Jordan,JOR,Yemen,YEM,17,8,0,25,0
+2021,Jordan,JOR,Yemen,YEM,14,11,0,25,0
+2022,Jordan,JOR,Yemen,YEM,14,12,0,26,1
+2014,Kuwait,KWT,Iraq,IRQ,0,11,0,11,
+2015,Kuwait,KWT,Iraq,IRQ,0,8,0,8,-3
+2016,Kuwait,KWT,Iraq,IRQ,0,16,0,16,8
+2017,Kuwait,KWT,Iraq,IRQ,0,131,0,131,115
+2018,Kuwait,KWT,Iraq,IRQ,0,174,0,174,43
+2019,Kuwait,KWT,Iraq,IRQ,0,209,0,209,35
+2020,Kuwait,KWT,Iraq,IRQ,0,249,0,249,40
+2021,Kuwait,KWT,Iraq,IRQ,0,301,0,301,52
+2022,Kuwait,KWT,Iraq,IRQ,0,330,0,330,29
+2010,Kuwait,KWT,Jordan,JOR,11,0,0,11,
+2013,Kuwait,KWT,Jordan,JOR,0,12,0,12,1
+2018,Kuwait,KWT,Jordan,JOR,10,0,0,10,-2
+2019,Kuwait,KWT,Jordan,JOR,0,0,5,5,-5
+2020,Kuwait,KWT,Jordan,JOR,0,0,5,5,0
+2012,Kuwait,KWT,Lebanon,LBN,0,7,0,7,
+2013,Kuwait,KWT,Lebanon,LBN,0,6,0,6,-1
+2014,Kuwait,KWT,Lebanon,LBN,0,9,0,9,3
+2018,Kuwait,KWT,Lebanon,LBN,0,9,0,9,0
+2019,Kuwait,KWT,Lebanon,LBN,9,0,0,9,0
+2020,Kuwait,KWT,Lebanon,LBN,9,0,0,9,0
+2021,Kuwait,KWT,Lebanon,LBN,9,0,0,9,0
+2022,Kuwait,KWT,Lebanon,LBN,9,0,0,9,0
+2010,Kuwait,KWT,Syrian Arab Rep.,SYR,5,0,0,5,
+2011,Kuwait,KWT,Syrian Arab Rep.,SYR,44,17,0,61,56
+2012,Kuwait,KWT,Syrian Arab Rep.,SYR,35,13,0,48,-13
+2013,Kuwait,KWT,Syrian Arab Rep.,SYR,25,0,0,25,-23
+2014,Kuwait,KWT,Syrian Arab Rep.,SYR,6,0,0,6,-19
+2015,Kuwait,KWT,Syrian Arab Rep.,SYR,5,0,0,5,-1
+2016,Kuwait,KWT,Syrian Arab Rep.,SYR,5,0,0,5,0
+2017,Kuwait,KWT,Syrian Arab Rep.,SYR,5,0,0,5,0
+2018,Kuwait,KWT,Syrian Arab Rep.,SYR,5,0,0,5,0
+2018,Kuwait,KWT,United Arab Emirates,ARE,5,0,0,5,
+2019,Kuwait,KWT,United Arab Emirates,ARE,5,0,0,5,0
+2020,Kuwait,KWT,United Arab Emirates,ARE,5,0,0,5,0
+2021,Kuwait,KWT,United Arab Emirates,ARE,5,0,0,5,0
+2022,Kuwait,KWT,United Arab Emirates,ARE,5,0,0,5,0
+2016,Lebanon,LBN,Algeria,DZA,0,11,0,11,
+2017,Lebanon,LBN,Algeria,DZA,0,5,0,5,-6
+2018,Lebanon,LBN,Algeria,DZA,0,5,0,5,0
+2022,Lebanon,LBN,Algeria,DZA,0,9,0,9,4
+2012,Lebanon,LBN,Egypt,EGY,0,5,0,5,
+2013,Lebanon,LBN,Egypt,EGY,0,6,0,6,1
+2014,Lebanon,LBN,Egypt,EGY,0,5,0,5,-1
+2021,Lebanon,LBN,Egypt,EGY,0,6,0,6,1
+2022,Lebanon,LBN,Egypt,EGY,0,6,0,6,0
+2012,Lebanon,LBN,Iraq,IRQ,5,0,0,5,
+2013,Lebanon,LBN,Iraq,IRQ,0,5,0,5,0
+2014,Lebanon,LBN,Iraq,IRQ,0,5,0,5,0
+2015,Lebanon,LBN,Iraq,IRQ,0,5,0,5,0
+2016,Lebanon,LBN,Iraq,IRQ,0,6,0,6,1
+2017,Lebanon,LBN,Iraq,IRQ,0,5,0,5,-1
+2018,Lebanon,LBN,Iraq,IRQ,0,5,0,5,0
+2019,Lebanon,LBN,Iraq,IRQ,0,5,5,10,5
+2020,Lebanon,LBN,Iraq,IRQ,0,5,0,5,-5
+2021,Lebanon,LBN,Iraq,IRQ,0,10,5,15,10
+2022,Lebanon,LBN,Iraq,IRQ,0,19,0,19,4
+2010,Lebanon,LBN,Jordan,JOR,5,5,0,10,
+2011,Lebanon,LBN,Jordan,JOR,5,5,0,10,0
+2012,Lebanon,LBN,Jordan,JOR,0,12,0,12,2
+2013,Lebanon,LBN,Jordan,JOR,0,17,0,17,5
+2014,Lebanon,LBN,Jordan,JOR,0,72,0,72,55
+2015,Lebanon,LBN,Jordan,JOR,5,74,0,79,7
+2016,Lebanon,LBN,Jordan,JOR,5,96,0,101,22
+2017,Lebanon,LBN,Jordan,JOR,6,105,0,111,10
+2018,Lebanon,LBN,Jordan,JOR,9,109,0,118,7
+2019,Lebanon,LBN,Jordan,JOR,6,103,14,123,5
+2020,Lebanon,LBN,Jordan,JOR,6,108,15,129,6
+2021,Lebanon,LBN,Jordan,JOR,5,105,16,126,-3
+2022,Lebanon,LBN,Jordan,JOR,5,105,15,125,-1
+2010,Lebanon,LBN,Kuwait,KWT,0,5,0,5,
+2012,Lebanon,LBN,Kuwait,KWT,5,5,0,10,5
+2013,Lebanon,LBN,Kuwait,KWT,5,0,0,5,-5
+2014,Lebanon,LBN,Kuwait,KWT,5,0,0,5,0
+2015,Lebanon,LBN,Kuwait,KWT,5,0,0,5,0
+2016,Lebanon,LBN,Kuwait,KWT,5,0,0,5,0
+2017,Lebanon,LBN,Kuwait,KWT,0,5,0,5,0
+2018,Lebanon,LBN,Kuwait,KWT,0,5,0,5,0
+2019,Lebanon,LBN,Kuwait,KWT,0,5,0,5,0
+2020,Lebanon,LBN,Kuwait,KWT,0,5,0,5,0
+2021,Lebanon,LBN,Kuwait,KWT,0,5,0,5,0
+2022,Lebanon,LBN,Kuwait,KWT,0,5,0,5,0
+2019,Lebanon,LBN,Lebanon,LBN,0,0,4983,4983,
+2020,Lebanon,LBN,Lebanon,LBN,0,0,4711,4711,-272
+2021,Lebanon,LBN,Lebanon,LBN,0,0,11627,11627,6916
+2022,Lebanon,LBN,Lebanon,LBN,0,0,14424,14424,2797
+2016,Lebanon,LBN,Mauritania,MRT,0,5,0,5,
+2017,Lebanon,LBN,Mauritania,MRT,0,5,0,5,0
+2018,Lebanon,LBN,Mauritania,MRT,5,0,0,5,0
+2019,Lebanon,LBN,Mauritania,MRT,5,0,0,5,0
+2021,Lebanon,LBN,Mauritania,MRT,0,14,0,14,9
+2022,Lebanon,LBN,Mauritania,MRT,0,30,0,30,16
+2015,Lebanon,LBN,Morocco,MAR,0,5,0,5,
+2016,Lebanon,LBN,Morocco,MAR,0,46,0,46,41
+2017,Lebanon,LBN,Morocco,MAR,0,17,0,17,-29
+2018,Lebanon,LBN,Morocco,MAR,0,10,0,10,-7
+2019,Lebanon,LBN,Morocco,MAR,6,8,0,14,4
+2020,Lebanon,LBN,Morocco,MAR,5,20,0,25,11
+2021,Lebanon,LBN,Morocco,MAR,5,37,0,42,17
+2022,Lebanon,LBN,Morocco,MAR,5,38,0,43,1
+2020,Lebanon,LBN,Saudi Arabia,SAU,0,13,0,13,
+2021,Lebanon,LBN,Saudi Arabia,SAU,0,13,0,13,0
+2022,Lebanon,LBN,Saudi Arabia,SAU,0,13,0,13,0
+2010,Lebanon,LBN,Syrian Arab Rep.,SYR,18,0,0,18,
+2011,Lebanon,LBN,Syrian Arab Rep.,SYR,27,0,0,27,9
+2012,Lebanon,LBN,Syrian Arab Rep.,SYR,30,22,0,52,25
+2013,Lebanon,LBN,Syrian Arab Rep.,SYR,25,56,0,81,29
+2014,Lebanon,LBN,Syrian Arab Rep.,SYR,22,114,0,136,55
+2015,Lebanon,LBN,Syrian Arab Rep.,SYR,26,135,0,161,25
+2016,Lebanon,LBN,Syrian Arab Rep.,SYR,27,75,0,102,-59
+2017,Lebanon,LBN,Syrian Arab Rep.,SYR,24,0,0,24,-78
+2018,Lebanon,LBN,Syrian Arab Rep.,SYR,24,6,0,30,6
+2019,Lebanon,LBN,Syrian Arab Rep.,SYR,23,5,0,28,-2
+2020,Lebanon,LBN,Syrian Arab Rep.,SYR,22,6,0,28,0
+2021,Lebanon,LBN,Syrian Arab Rep.,SYR,24,10,0,34,6
+2022,Lebanon,LBN,Syrian Arab Rep.,SYR,23,19,0,42,8
+2018,Lebanon,LBN,Tunisia,TUN,6,0,0,6,
+2019,Lebanon,LBN,Tunisia,TUN,6,0,0,6,0
+2020,Lebanon,LBN,Tunisia,TUN,6,20,0,26,20
+2021,Lebanon,LBN,Tunisia,TUN,6,23,0,29,3
+2022,Lebanon,LBN,Tunisia,TUN,6,21,0,27,-2
+2017,Lebanon,LBN,United Arab Emirates,ARE,6,0,0,6,
+2018,Lebanon,LBN,United Arab Emirates,ARE,15,0,14,29,23
+2019,Lebanon,LBN,United Arab Emirates,ARE,16,7,18,41,12
+2020,Lebanon,LBN,United Arab Emirates,ARE,18,5,15,38,-3
+2021,Lebanon,LBN,United Arab Emirates,ARE,16,10,15,41,3
+2022,Lebanon,LBN,United Arab Emirates,ARE,16,10,15,41,0
+2016,Lebanon,LBN,Yemen,YEM,0,6,0,6,
+2017,Lebanon,LBN,Yemen,YEM,0,6,0,6,0
+2018,Lebanon,LBN,Yemen,YEM,0,6,0,6,0
+2019,Lebanon,LBN,Yemen,YEM,0,6,0,6,0
+2022,Lebanon,LBN,Yemen,YEM,0,5,0,5,-1
+2010,Libya,LBY,Algeria,DZA,6,0,0,6,
+2011,Libya,LBY,Algeria,DZA,6,17,0,23,17
+2012,Libya,LBY,Algeria,DZA,0,44,0,44,21
+2013,Libya,LBY,Algeria,DZA,0,25,0,25,-19
+2014,Libya,LBY,Algeria,DZA,0,42,0,42,17
+2015,Libya,LBY,Algeria,DZA,13,29,0,42,0
+2016,Libya,LBY,Algeria,DZA,16,18,0,34,-8
+2017,Libya,LBY,Algeria,DZA,19,8,0,27,-7
+2018,Libya,LBY,Algeria,DZA,19,13,0,32,5
+2019,Libya,LBY,Algeria,DZA,19,16,0,35,3
+2020,Libya,LBY,Algeria,DZA,20,19,0,39,4
+2021,Libya,LBY,Algeria,DZA,21,17,0,38,-1
+2022,Libya,LBY,Algeria,DZA,21,13,0,34,-4
+2010,Libya,LBY,Egypt,EGY,5,5,0,10,
+2011,Libya,LBY,Egypt,EGY,8,10,0,18,8
+2012,Libya,LBY,Egypt,EGY,5,5,0,10,-8
+2013,Libya,LBY,Egypt,EGY,5,9,0,14,4
+2014,Libya,LBY,Egypt,EGY,0,5,0,5,-9
+2015,Libya,LBY,Egypt,EGY,0,5,0,5,0
+2016,Libya,LBY,Egypt,EGY,0,5,0,5,0
+2018,Libya,LBY,Egypt,EGY,5,0,0,5,0
+2019,Libya,LBY,Egypt,EGY,5,0,0,5,0
+2020,Libya,LBY,Egypt,EGY,5,0,0,5,0
+2021,Libya,LBY,Egypt,EGY,5,0,0,5,0
+2022,Libya,LBY,Egypt,EGY,6,0,0,6,1
+2011,Libya,LBY,Jordan,JOR,0,33,0,33,
+2012,Libya,LBY,Jordan,JOR,0,5,0,5,-28
+2013,Libya,LBY,Jordan,JOR,0,9,0,9,4
+2014,Libya,LBY,Jordan,JOR,0,90,0,90,81
+2015,Libya,LBY,Jordan,JOR,0,157,0,157,67
+2016,Libya,LBY,Jordan,JOR,16,165,0,181,24
+2017,Libya,LBY,Jordan,JOR,27,183,0,210,29
+2018,Libya,LBY,Jordan,JOR,30,218,0,248,38
+2019,Libya,LBY,Jordan,JOR,30,165,5,200,-48
+2020,Libya,LBY,Jordan,JOR,46,117,5,168,-32
+2021,Libya,LBY,Jordan,JOR,40,112,5,157,-11
+2022,Libya,LBY,Jordan,JOR,47,104,5,156,-1
+2012,Libya,LBY,Lebanon,LBN,5,0,0,5,
+2013,Libya,LBY,Lebanon,LBN,5,0,5,10,5
+2014,Libya,LBY,Lebanon,LBN,6,5,5,16,6
+2015,Libya,LBY,Lebanon,LBN,6,13,5,24,8
+2016,Libya,LBY,Lebanon,LBN,12,5,5,22,-2
+2017,Libya,LBY,Lebanon,LBN,12,10,5,27,5
+2018,Libya,LBY,Lebanon,LBN,9,13,0,22,-5
+2019,Libya,LBY,Lebanon,LBN,10,11,0,21,-1
+2020,Libya,LBY,Lebanon,LBN,10,17,0,27,6
+2021,Libya,LBY,Lebanon,LBN,11,17,0,28,1
+2022,Libya,LBY,Lebanon,LBN,11,15,0,26,-2
+2011,Libya,LBY,Libya,LBY,0,0,0,0,
+2012,Libya,LBY,Libya,LBY,0,0,0,0,0
+2013,Libya,LBY,Libya,LBY,0,0,0,0,0
+2014,Libya,LBY,Libya,LBY,0,0,0,0,0
+2015,Libya,LBY,Libya,LBY,0,0,0,0,0
+2016,Libya,LBY,Libya,LBY,0,0,0,0,0
+2017,Libya,LBY,Libya,LBY,0,0,0,0,0
+2018,Libya,LBY,Libya,LBY,0,0,0,0,0
+2019,Libya,LBY,Libya,LBY,0,0,0,0,0
+2020,Libya,LBY,Libya,LBY,0,0,0,0,0
+2021,Libya,LBY,Libya,LBY,0,0,0,0,0
+2022,Libya,LBY,Libya,LBY,0,0,0,0,0
+2017,Libya,LBY,Mauritania,MRT,0,5,0,5,
+2020,Libya,LBY,Mauritania,MRT,0,17,0,17,12
+2021,Libya,LBY,Mauritania,MRT,8,16,0,24,7
+2022,Libya,LBY,Mauritania,MRT,8,5,0,13,-11
+2011,Libya,LBY,Morocco,MAR,0,12,0,12,
+2012,Libya,LBY,Morocco,MAR,0,5,0,5,-7
+2013,Libya,LBY,Morocco,MAR,0,5,0,5,0
+2014,Libya,LBY,Morocco,MAR,0,5,0,5,0
+2015,Libya,LBY,Morocco,MAR,8,12,0,20,15
+2016,Libya,LBY,Morocco,MAR,16,30,0,46,26
+2017,Libya,LBY,Morocco,MAR,32,5,0,37,-9
+2018,Libya,LBY,Morocco,MAR,35,5,0,40,3
+2019,Libya,LBY,Morocco,MAR,32,28,0,60,20
+2020,Libya,LBY,Morocco,MAR,48,14,0,62,2
+2021,Libya,LBY,Morocco,MAR,49,15,0,64,2
+2022,Libya,LBY,Morocco,MAR,51,10,0,61,-3
+2020,Libya,LBY,Saudi Arabia,SAU,0,8,0,8,
+2021,Libya,LBY,Saudi Arabia,SAU,0,8,0,8,0
+2022,Libya,LBY,Saudi Arabia,SAU,0,8,0,8,0
+2010,Libya,LBY,Syrian Arab Rep.,SYR,5,5,0,10,
+2011,Libya,LBY,Syrian Arab Rep.,SYR,5,10,0,15,5
+2012,Libya,LBY,Syrian Arab Rep.,SYR,8,5,0,13,-2
+2013,Libya,LBY,Syrian Arab Rep.,SYR,5,5,0,10,-3
+2014,Libya,LBY,Syrian Arab Rep.,SYR,5,0,0,5,-5
+2015,Libya,LBY,Syrian Arab Rep.,SYR,5,5,0,10,5
+2016,Libya,LBY,Syrian Arab Rep.,SYR,10,5,0,15,5
+2017,Libya,LBY,Syrian Arab Rep.,SYR,14,0,0,14,-1
+2018,Libya,LBY,Syrian Arab Rep.,SYR,12,0,0,12,-2
+2019,Libya,LBY,Syrian Arab Rep.,SYR,11,10,0,21,9
+2020,Libya,LBY,Syrian Arab Rep.,SYR,11,10,0,21,0
+2021,Libya,LBY,Syrian Arab Rep.,SYR,9,10,0,19,-2
+2022,Libya,LBY,Syrian Arab Rep.,SYR,10,10,0,20,1
+2011,Libya,LBY,Tunisia,TUN,1049,0,0,1049,
+2012,Libya,LBY,Tunisia,TUN,0,5,0,5,-1044
+2014,Libya,LBY,Tunisia,TUN,0,5,0,5,0
+2015,Libya,LBY,Tunisia,TUN,0,5,0,5,0
+2016,Libya,LBY,Tunisia,TUN,0,0,5,5,0
+2018,Libya,LBY,Tunisia,TUN,0,5,8,13,8
+2019,Libya,LBY,Tunisia,TUN,7,31,17,55,42
+2020,Libya,LBY,Tunisia,TUN,14,127,49,190,135
+2021,Libya,LBY,Tunisia,TUN,46,139,40,225,35
+2022,Libya,LBY,Tunisia,TUN,54,131,40,225,0
+2017,Libya,LBY,United Arab Emirates,ARE,0,5,0,5,
+2018,Libya,LBY,United Arab Emirates,ARE,0,5,0,5,0
+2019,Libya,LBY,United Arab Emirates,ARE,0,5,0,5,0
+2020,Libya,LBY,United Arab Emirates,ARE,0,5,0,5,0
+2010,Mauritania,MRT,Israel,ISR,0,5,0,5,
+2017,Mauritania,MRT,Lebanon,LBN,0,5,0,5,
+2017,Mauritania,MRT,Morocco,MAR,0,5,0,5,
+2018,Mauritania,MRT,Morocco,MAR,5,5,0,10,5
+2019,Mauritania,MRT,Morocco,MAR,6,5,0,11,1
+2020,Mauritania,MRT,Morocco,MAR,6,9,0,15,4
+2021,Mauritania,MRT,Morocco,MAR,7,14,0,21,6
+2022,Mauritania,MRT,Morocco,MAR,7,15,0,22,1
+2020,Mauritania,MRT,Tunisia,TUN,0,6,0,6,
+2022,Mauritania,MRT,Tunisia,TUN,0,5,0,5,-1
+2012,Morocco,MAR,Egypt,EGY,0,5,0,5,
+2013,Morocco,MAR,Egypt,EGY,0,5,0,5,0
+2014,Morocco,MAR,Egypt,EGY,0,5,0,5,0
+2015,Morocco,MAR,Egypt,EGY,0,7,0,7,2
+2013,Morocco,MAR,Iraq,IRQ,0,5,0,5,
+2015,Morocco,MAR,Iraq,IRQ,0,6,0,6,1
+2016,Morocco,MAR,Iraq,IRQ,0,5,0,5,-1
+2017,Morocco,MAR,Iraq,IRQ,0,5,0,5,0
+2013,Morocco,MAR,Jordan,JOR,0,5,0,5,
+2014,Morocco,MAR,Jordan,JOR,0,6,0,6,1
+2015,Morocco,MAR,Jordan,JOR,0,9,0,9,3
+2016,Morocco,MAR,Jordan,JOR,0,9,0,9,0
+2017,Morocco,MAR,Jordan,JOR,0,13,0,13,4
+2018,Morocco,MAR,Jordan,JOR,0,17,0,17,4
+2019,Morocco,MAR,Jordan,JOR,0,10,5,15,-2
+2020,Morocco,MAR,Jordan,JOR,0,10,5,15,0
+2021,Morocco,MAR,Jordan,JOR,0,10,6,16,1
+2022,Morocco,MAR,Jordan,JOR,0,9,5,14,-2
+2013,Morocco,MAR,Lebanon,LBN,0,0,15,15,
+2014,Morocco,MAR,Lebanon,LBN,0,0,13,13,-2
+2015,Morocco,MAR,Lebanon,LBN,0,0,11,11,-2
+2016,Morocco,MAR,Lebanon,LBN,0,0,9,9,-2
+2017,Morocco,MAR,Lebanon,LBN,0,0,10,10,1
+2018,Morocco,MAR,Lebanon,LBN,0,0,7,7,-3
+2019,Morocco,MAR,Lebanon,LBN,0,5,7,12,5
+2020,Morocco,MAR,Lebanon,LBN,0,7,6,13,1
+2021,Morocco,MAR,Lebanon,LBN,5,8,9,22,9
+2022,Morocco,MAR,Lebanon,LBN,5,9,8,22,0
+2010,Morocco,MAR,Libya,LBY,0,5,0,5,
+2013,Morocco,MAR,Libya,LBY,0,5,0,5,0
+2014,Morocco,MAR,Libya,LBY,0,5,0,5,0
+2015,Morocco,MAR,Libya,LBY,0,5,0,5,0
+2016,Morocco,MAR,Libya,LBY,0,5,0,5,0
+2017,Morocco,MAR,Libya,LBY,0,5,0,5,0
+2018,Morocco,MAR,Libya,LBY,0,5,0,5,0
+2018,Morocco,MAR,Mauritania,MRT,0,6,0,6,
+2019,Morocco,MAR,Mauritania,MRT,0,7,0,7,1
+2021,Morocco,MAR,Qatar,QAT,0,5,0,5,
+2010,Morocco,MAR,Syrian Arab Rep.,SYR,5,5,0,10,
+2011,Morocco,MAR,Syrian Arab Rep.,SYR,7,6,0,13,3
+2012,Morocco,MAR,Syrian Arab Rep.,SYR,6,10,0,16,3
+2013,Morocco,MAR,Syrian Arab Rep.,SYR,6,10,0,16,0
+2014,Morocco,MAR,Syrian Arab Rep.,SYR,7,0,0,7,-9
+2015,Morocco,MAR,Syrian Arab Rep.,SYR,6,6,0,12,5
+2016,Morocco,MAR,Syrian Arab Rep.,SYR,6,0,0,6,-6
+2017,Morocco,MAR,Syrian Arab Rep.,SYR,6,0,0,6,0
+2018,Morocco,MAR,Syrian Arab Rep.,SYR,5,0,0,5,-1
+2019,Morocco,MAR,Syrian Arab Rep.,SYR,5,0,0,5,0
+2020,Morocco,MAR,Syrian Arab Rep.,SYR,0,5,0,5,0
+2021,Morocco,MAR,Syrian Arab Rep.,SYR,0,5,0,5,0
+2022,Morocco,MAR,Syrian Arab Rep.,SYR,0,5,0,5,0
+2011,Morocco,MAR,Tunisia,TUN,5,5,0,10,
+2020,Morocco,MAR,Tunisia,TUN,0,0,5,5,-5
+2021,Morocco,MAR,Tunisia,TUN,0,5,5,10,5
+2022,Morocco,MAR,Tunisia,TUN,0,5,5,10,0
+2017,Morocco,MAR,United Arab Emirates,ARE,0,0,5,5,
+2018,Morocco,MAR,United Arab Emirates,ARE,0,0,13,13,8
+2019,Morocco,MAR,United Arab Emirates,ARE,0,0,15,15,2
+2020,Morocco,MAR,United Arab Emirates,ARE,0,0,15,15,0
+2021,Morocco,MAR,United Arab Emirates,ARE,0,0,15,15,0
+2022,Morocco,MAR,United Arab Emirates,ARE,0,0,15,15,0
+2020,Oman,OMN,Saudi Arabia,SAU,0,5,0,5,
+2010,Palestinian,PSE,Algeria,DZA,4007,11,0,4018,
+2011,Palestinian,PSE,Algeria,DZA,4017,20,0,4037,19
+2012,Palestinian,PSE,Algeria,DZA,4020,45,0,4065,28
+2013,Palestinian,PSE,Algeria,DZA,4017,176,0,4193,128
+2014,Palestinian,PSE,Algeria,DZA,4016,374,0,4390,197
+2015,Palestinian,PSE,Algeria,DZA,4016,86,0,4102,-288
+2016,Palestinian,PSE,Algeria,DZA,4015,39,0,4054,-48
+2017,Palestinian,PSE,Algeria,DZA,4014,85,0,4099,45
+2018,Palestinian,PSE,Algeria,DZA,4013,128,0,4141,42
+2019,Palestinian,PSE,Algeria,DZA,173,0,0,173,-3968
+2020,Palestinian,PSE,Algeria,DZA,185,0,0,185,12
+2021,Palestinian,PSE,Algeria,DZA,185,0,0,185,0
+2022,Palestinian,PSE,Algeria,DZA,225,0,0,225,40
+2020,Palestinian,PSE,Bahrain,BHR,0,6,0,6,
+2021,Palestinian,PSE,Bahrain,BHR,0,15,0,15,9
+2022,Palestinian,PSE,Bahrain,BHR,0,15,0,15,0
+2010,Palestinian,PSE,Egypt,EGY,70026,27,0,70053,
+2011,Palestinian,PSE,Egypt,EGY,70029,20,0,70049,-4
+2012,Palestinian,PSE,Egypt,EGY,70028,35,0,70063,14
+2013,Palestinian,PSE,Egypt,EGY,70026,31,0,70057,-6
+2014,Palestinian,PSE,Egypt,EGY,70023,18,0,70041,-16
+2015,Palestinian,PSE,Egypt,EGY,70021,5,0,70026,-15
+2016,Palestinian,PSE,Egypt,EGY,70027,5,0,70032,6
+2017,Palestinian,PSE,Egypt,EGY,70018,0,0,70018,-14
+2018,Palestinian,PSE,Egypt,EGY,70021,0,0,70021,3
+2019,Palestinian,PSE,Egypt,EGY,70010,0,0,70010,-11
+2020,Palestinian,PSE,Egypt,EGY,70022,0,0,70022,12
+2021,Palestinian,PSE,Egypt,EGY,70021,0,0,70021,-1
+2022,Palestinian,PSE,Egypt,EGY,70021,0,0,70021,0
+2010,Palestinian,PSE,Iraq,IRQ,10798,0,0,10798,
+2011,Palestinian,PSE,Iraq,IRQ,11549,0,0,11549,751
+2012,Palestinian,PSE,Iraq,IRQ,11467,0,0,11467,-82
+2013,Palestinian,PSE,Iraq,IRQ,9992,60,0,10052,-1415
+2014,Palestinian,PSE,Iraq,IRQ,9246,90,0,9336,-716
+2015,Palestinian,PSE,Iraq,IRQ,9250,95,0,9345,9
+2016,Palestinian,PSE,Iraq,IRQ,7703,108,364,8175,-1170
+2017,Palestinian,PSE,Iraq,IRQ,7865,136,0,8001,-174
+2018,Palestinian,PSE,Iraq,IRQ,7944,140,0,8084,83
+2019,Palestinian,PSE,Iraq,IRQ,7858,107,0,7965,-119
+2020,Palestinian,PSE,Iraq,IRQ,7868,95,0,7963,-2
+2021,Palestinian,PSE,Iraq,IRQ,7885,142,6,8033,70
+2022,Palestinian,PSE,Iraq,IRQ,7864,175,5,8044,11
+2018,Palestinian,PSE,Jordan,JOR,0,0,31,31,
+2019,Palestinian,PSE,Jordan,JOR,0,0,106,106,75
+2020,Palestinian,PSE,Jordan,JOR,0,0,79,79,-27
+2021,Palestinian,PSE,Jordan,JOR,0,0,100,100,21
+2022,Palestinian,PSE,Jordan,JOR,0,0,102,102,2
+2010,Palestinian,PSE,Kuwait,KWT,5,137,0,142,
+2011,Palestinian,PSE,Kuwait,KWT,0,15,0,15,-127
+2012,Palestinian,PSE,Kuwait,KWT,6,0,0,6,-9
+2013,Palestinian,PSE,Kuwait,KWT,6,0,0,6,0
+2014,Palestinian,PSE,Kuwait,KWT,7,0,0,7,1
+2015,Palestinian,PSE,Kuwait,KWT,6,0,0,6,-1
+2016,Palestinian,PSE,Kuwait,KWT,5,5,0,10,4
+2017,Palestinian,PSE,Kuwait,KWT,0,5,0,5,-5
+2018,Palestinian,PSE,Kuwait,KWT,5,5,0,10,5
+2019,Palestinian,PSE,Kuwait,KWT,0,5,0,5,-5
+2020,Palestinian,PSE,Kuwait,KWT,0,5,0,5,0
+2021,Palestinian,PSE,Kuwait,KWT,5,5,0,10,5
+2022,Palestinian,PSE,Kuwait,KWT,5,5,0,10,0
+2010,Palestinian,PSE,Lebanon,LBN,37,0,0,37,
+2011,Palestinian,PSE,Lebanon,LBN,29,0,0,29,-8
+2012,Palestinian,PSE,Lebanon,LBN,97,0,0,97,68
+2013,Palestinian,PSE,Lebanon,LBN,5,9,3360,3374,3277
+2014,Palestinian,PSE,Lebanon,LBN,9,8,3166,3183,-191
+2015,Palestinian,PSE,Lebanon,LBN,7,7,2420,2434,-749
+2016,Palestinian,PSE,Lebanon,LBN,0,6,1835,1841,-593
+2017,Palestinian,PSE,Lebanon,LBN,0,5,1518,1523,-318
+2018,Palestinian,PSE,Lebanon,LBN,0,5,1264,1269,-254
+2019,Palestinian,PSE,Lebanon,LBN,0,5,783,788,-481
+2020,Palestinian,PSE,Lebanon,LBN,0,0,673,673,-115
+2021,Palestinian,PSE,Lebanon,LBN,0,0,807,807,134
+2022,Palestinian,PSE,Lebanon,LBN,0,0,1715,1715,908
+2010,Palestinian,PSE,Libya,LBY,2739,0,0,2739,
+2011,Palestinian,PSE,Libya,LBY,2710,0,0,2710,-29
+2012,Palestinian,PSE,Libya,LBY,3138,0,0,3138,428
+2013,Palestinian,PSE,Libya,LBY,4815,0,0,4815,1677
+2014,Palestinian,PSE,Libya,LBY,5391,9,0,5400,585
+2015,Palestinian,PSE,Libya,LBY,5380,55,0,5435,35
+2016,Palestinian,PSE,Libya,LBY,5379,601,0,5980,545
+2017,Palestinian,PSE,Libya,LBY,5303,1676,0,6979,999
+2018,Palestinian,PSE,Libya,LBY,4555,1984,0,6539,-440
+2019,Palestinian,PSE,Libya,LBY,2015,2853,0,4868,-1671
+2020,Palestinian,PSE,Libya,LBY,1282,2541,0,3823,-1045
+2021,Palestinian,PSE,Libya,LBY,560,1487,0,2047,-1776
+2022,Palestinian,PSE,Libya,LBY,161,695,0,856,-1191
+2010,Palestinian,PSE,Mauritania,MRT,10,0,0,10,
+2011,Palestinian,PSE,Mauritania,MRT,10,5,0,15,5
+2012,Palestinian,PSE,Mauritania,MRT,13,5,0,18,3
+2013,Palestinian,PSE,Mauritania,MRT,16,0,0,16,-2
+2014,Palestinian,PSE,Mauritania,MRT,11,5,0,16,0
+2015,Palestinian,PSE,Mauritania,MRT,28,5,0,33,17
+2016,Palestinian,PSE,Mauritania,MRT,44,15,0,59,26
+2017,Palestinian,PSE,Mauritania,MRT,40,26,0,66,7
+2018,Palestinian,PSE,Mauritania,MRT,29,34,0,63,-3
+2019,Palestinian,PSE,Mauritania,MRT,60,27,0,87,24
+2020,Palestinian,PSE,Mauritania,MRT,74,30,0,104,17
+2021,Palestinian,PSE,Mauritania,MRT,78,43,0,121,17
+2022,Palestinian,PSE,Mauritania,MRT,78,35,0,113,-8
+2010,Palestinian,PSE,Morocco,MAR,30,0,0,30,
+2011,Palestinian,PSE,Morocco,MAR,33,0,0,33,3
+2012,Palestinian,PSE,Morocco,MAR,31,23,0,54,21
+2013,Palestinian,PSE,Morocco,MAR,37,10,0,47,-7
+2014,Palestinian,PSE,Morocco,MAR,30,14,0,44,-3
+2015,Palestinian,PSE,Morocco,MAR,41,16,0,57,13
+2016,Palestinian,PSE,Morocco,MAR,51,12,0,63,6
+2017,Palestinian,PSE,Morocco,MAR,71,27,0,98,35
+2018,Palestinian,PSE,Morocco,MAR,84,97,0,181,83
+2019,Palestinian,PSE,Morocco,MAR,183,0,0,183,2
+2020,Palestinian,PSE,Morocco,MAR,82,138,0,220,37
+2021,Palestinian,PSE,Morocco,MAR,89,169,0,258,38
+2022,Palestinian,PSE,Morocco,MAR,90,177,0,267,9
+2020,Palestinian,PSE,Qatar,QAT,0,7,0,7,
+2021,Palestinian,PSE,Qatar,QAT,0,7,0,7,0
+2022,Palestinian,PSE,Qatar,QAT,0,7,0,7,0
+2010,Palestinian,PSE,Saudi Arabia,SAU,25,0,0,25,
+2011,Palestinian,PSE,Saudi Arabia,SAU,25,0,0,25,0
+2012,Palestinian,PSE,Saudi Arabia,SAU,22,0,0,22,-3
+2013,Palestinian,PSE,Saudi Arabia,SAU,22,0,0,22,0
+2014,Palestinian,PSE,Saudi Arabia,SAU,22,0,0,22,0
+2015,Palestinian,PSE,Saudi Arabia,SAU,5,0,0,5,-17
+2016,Palestinian,PSE,Saudi Arabia,SAU,5,0,0,5,0
+2017,Palestinian,PSE,Saudi Arabia,SAU,9,0,0,9,4
+2018,Palestinian,PSE,Saudi Arabia,SAU,9,13,0,22,13
+2019,Palestinian,PSE,Saudi Arabia,SAU,8,14,0,22,0
+2020,Palestinian,PSE,Saudi Arabia,SAU,8,326,0,334,312
+2021,Palestinian,PSE,Saudi Arabia,SAU,7,434,0,441,107
+2022,Palestinian,PSE,Saudi Arabia,SAU,14,474,0,488,47
+2010,Palestinian,PSE,Syrian Arab Rep.,SYR,33,42,0,75,
+2011,Palestinian,PSE,Syrian Arab Rep.,SYR,41,16,0,57,-18
+2012,Palestinian,PSE,Syrian Arab Rep.,SYR,48,16,0,64,7
+2013,Palestinian,PSE,Syrian Arab Rep.,SYR,35,16,0,51,-13
+2014,Palestinian,PSE,Syrian Arab Rep.,SYR,23,5,0,28,-23
+2015,Palestinian,PSE,Syrian Arab Rep.,SYR,5,5,0,10,-18
+2016,Palestinian,PSE,Syrian Arab Rep.,SYR,5,5,0,10,0
+2010,Palestinian,PSE,Tunisia,TUN,16,0,0,16,
+2011,Palestinian,PSE,Tunisia,TUN,37,0,0,37,21
+2012,Palestinian,PSE,Tunisia,TUN,37,0,0,37,0
+2013,Palestinian,PSE,Tunisia,TUN,38,0,0,38,1
+2014,Palestinian,PSE,Tunisia,TUN,42,0,0,42,4
+2015,Palestinian,PSE,Tunisia,TUN,35,0,0,35,-7
+2016,Palestinian,PSE,Tunisia,TUN,34,0,0,34,-1
+2017,Palestinian,PSE,Tunisia,TUN,29,0,0,29,-5
+2018,Palestinian,PSE,Tunisia,TUN,37,5,0,42,13
+2019,Palestinian,PSE,Tunisia,TUN,35,9,0,44,2
+2020,Palestinian,PSE,Tunisia,TUN,35,13,0,48,4
+2021,Palestinian,PSE,Tunisia,TUN,34,38,0,72,24
+2022,Palestinian,PSE,Tunisia,TUN,34,35,0,69,-3
+2010,Palestinian,PSE,United Arab Emirates,ARE,11,7,0,18,
+2011,Palestinian,PSE,United Arab Emirates,ARE,10,7,0,17,-1
+2015,Palestinian,PSE,United Arab Emirates,ARE,0,34,0,34,17
+2016,Palestinian,PSE,United Arab Emirates,ARE,0,50,0,50,16
+2017,Palestinian,PSE,United Arab Emirates,ARE,5,143,0,148,98
+2018,Palestinian,PSE,United Arab Emirates,ARE,5,40,11,56,-92
+2019,Palestinian,PSE,United Arab Emirates,ARE,15,0,14,29,-27
+2020,Palestinian,PSE,United Arab Emirates,ARE,15,0,14,29,0
+2021,Palestinian,PSE,United Arab Emirates,ARE,16,5,12,33,4
+2022,Palestinian,PSE,United Arab Emirates,ARE,16,0,12,28,-5
+2010,Palestinian,PSE,Yemen,YEM,621,258,0,879,
+2011,Palestinian,PSE,Yemen,YEM,430,99,0,529,-350
+2012,Palestinian,PSE,Yemen,YEM,401,94,0,495,-34
+2013,Palestinian,PSE,Yemen,YEM,448,102,0,550,55
+2014,Palestinian,PSE,Yemen,YEM,463,135,0,598,48
+2015,Palestinian,PSE,Yemen,YEM,482,157,0,639,41
+2016,Palestinian,PSE,Yemen,YEM,579,201,0,780,141
+2017,Palestinian,PSE,Yemen,YEM,625,162,5,792,12
+2018,Palestinian,PSE,Yemen,YEM,619,227,0,846,54
+2019,Palestinian,PSE,Yemen,YEM,625,309,5,939,93
+2020,Palestinian,PSE,Yemen,YEM,630,307,5,942,3
+2021,Palestinian,PSE,Yemen,YEM,576,311,5,892,-50
+2022,Palestinian,PSE,Yemen,YEM,577,307,5,889,-3
+2010,Saudi Arabia,SAU,Egypt,EGY,0,5,0,5,
+2011,Saudi Arabia,SAU,Egypt,EGY,0,5,0,5,0
+2012,Saudi Arabia,SAU,Egypt,EGY,0,5,0,5,0
+2013,Saudi Arabia,SAU,Egypt,EGY,0,8,0,8,3
+2016,Saudi Arabia,SAU,Egypt,EGY,0,8,0,8,0
+2017,Saudi Arabia,SAU,Egypt,EGY,0,6,0,6,-2
+2018,Saudi Arabia,SAU,Egypt,EGY,0,6,0,6,0
+2019,Saudi Arabia,SAU,Egypt,EGY,5,17,0,22,16
+2020,Saudi Arabia,SAU,Egypt,EGY,14,7,0,21,-1
+2021,Saudi Arabia,SAU,Egypt,EGY,15,7,0,22,1
+2022,Saudi Arabia,SAU,Egypt,EGY,16,5,0,21,-1
+2011,Saudi Arabia,SAU,Iraq,IRQ,0,7,0,7,
+2012,Saudi Arabia,SAU,Iraq,IRQ,0,7,0,7,0
+2013,Saudi Arabia,SAU,Iraq,IRQ,0,11,0,11,4
+2014,Saudi Arabia,SAU,Iraq,IRQ,0,11,0,11,0
+2015,Saudi Arabia,SAU,Iraq,IRQ,0,9,0,9,-2
+2016,Saudi Arabia,SAU,Iraq,IRQ,0,10,0,10,1
+2017,Saudi Arabia,SAU,Iraq,IRQ,0,8,0,8,-2
+2018,Saudi Arabia,SAU,Iraq,IRQ,0,5,0,5,-3
+2019,Saudi Arabia,SAU,Iraq,IRQ,0,5,0,5,0
+2020,Saudi Arabia,SAU,Iraq,IRQ,0,6,0,6,1
+2021,Saudi Arabia,SAU,Iraq,IRQ,0,6,0,6,0
+2022,Saudi Arabia,SAU,Iraq,IRQ,0,6,0,6,0
+2014,Saudi Arabia,SAU,Jordan,JOR,0,5,0,5,
+2015,Saudi Arabia,SAU,Jordan,JOR,0,5,0,5,0
+2016,Saudi Arabia,SAU,Jordan,JOR,0,5,0,5,0
+2017,Saudi Arabia,SAU,Jordan,JOR,0,8,0,8,3
+2018,Saudi Arabia,SAU,Jordan,JOR,0,21,0,21,13
+2019,Saudi Arabia,SAU,Jordan,JOR,0,15,19,34,13
+2020,Saudi Arabia,SAU,Jordan,JOR,0,8,20,28,-6
+2021,Saudi Arabia,SAU,Jordan,JOR,0,0,20,20,-8
+2022,Saudi Arabia,SAU,Jordan,JOR,0,0,21,21,1
+2012,Saudi Arabia,SAU,Lebanon,LBN,0,7,0,7,
+2013,Saudi Arabia,SAU,Lebanon,LBN,0,0,10,10,3
+2014,Saudi Arabia,SAU,Lebanon,LBN,5,5,12,22,12
+2015,Saudi Arabia,SAU,Lebanon,LBN,0,0,10,10,-12
+2016,Saudi Arabia,SAU,Lebanon,LBN,5,13,9,27,17
+2017,Saudi Arabia,SAU,Lebanon,LBN,10,8,9,27,0
+2018,Saudi Arabia,SAU,Lebanon,LBN,13,5,10,28,1
+2019,Saudi Arabia,SAU,Lebanon,LBN,13,9,7,29,1
+2020,Saudi Arabia,SAU,Lebanon,LBN,12,9,6,27,-2
+2021,Saudi Arabia,SAU,Lebanon,LBN,7,7,7,21,-6
+2022,Saudi Arabia,SAU,Lebanon,LBN,7,7,7,21,0
+2010,Saudi Arabia,SAU,Syrian Arab Rep.,SYR,5,0,0,5,
+2011,Saudi Arabia,SAU,Syrian Arab Rep.,SYR,11,0,0,11,6
+2012,Saudi Arabia,SAU,Syrian Arab Rep.,SYR,7,5,0,12,1
+2013,Saudi Arabia,SAU,Syrian Arab Rep.,SYR,5,0,0,5,-7
+2014,Saudi Arabia,SAU,Syrian Arab Rep.,SYR,5,5,0,10,5
+2015,Saudi Arabia,SAU,Syrian Arab Rep.,SYR,6,9,0,15,5
+2016,Saudi Arabia,SAU,Syrian Arab Rep.,SYR,7,13,0,20,5
+2017,Saudi Arabia,SAU,Syrian Arab Rep.,SYR,11,0,0,11,-9
+2018,Saudi Arabia,SAU,Syrian Arab Rep.,SYR,11,0,0,11,0
+2019,Saudi Arabia,SAU,Syrian Arab Rep.,SYR,9,0,0,9,-2
+2020,Saudi Arabia,SAU,Syrian Arab Rep.,SYR,6,0,0,6,-3
+2021,Saudi Arabia,SAU,Syrian Arab Rep.,SYR,6,0,0,6,0
+2022,Saudi Arabia,SAU,Syrian Arab Rep.,SYR,5,0,0,5,-1
+2016,Saudi Arabia,SAU,United Arab Emirates,ARE,0,5,0,5,
+2017,Saudi Arabia,SAU,United Arab Emirates,ARE,5,0,0,5,0
+2018,Saudi Arabia,SAU,United Arab Emirates,ARE,5,0,0,5,0
+2019,Saudi Arabia,SAU,United Arab Emirates,ARE,5,0,0,5,0
+2020,Saudi Arabia,SAU,United Arab Emirates,ARE,5,0,0,5,0
+2015,Saudi Arabia,SAU,Yemen,YEM,6,0,0,6,
+2016,Saudi Arabia,SAU,Yemen,YEM,6,0,0,6,0
+2011,Syrian Arab Rep.,SYR,Algeria,DZA,0,5,0,5,
+2012,Syrian Arab Rep.,SYR,Algeria,DZA,0,236,0,236,231
+2013,Syrian Arab Rep.,SYR,Algeria,DZA,0,1079,0,1079,843
+2014,Syrian Arab Rep.,SYR,Algeria,DZA,0,4108,0,4108,3029
+2015,Syrian Arab Rep.,SYR,Algeria,DZA,0,6211,0,6211,2103
+2016,Syrian Arab Rep.,SYR,Algeria,DZA,0,5329,0,5329,-882
+2017,Syrian Arab Rep.,SYR,Algeria,DZA,8,5821,0,5829,500
+2018,Syrian Arab Rep.,SYR,Algeria,DZA,14,7485,0,7499,1670
+2019,Syrian Arab Rep.,SYR,Algeria,DZA,7757,0,0,7757,258
+2020,Syrian Arab Rep.,SYR,Algeria,DZA,6627,0,0,6627,-1130
+2021,Syrian Arab Rep.,SYR,Algeria,DZA,6659,0,0,6659,32
+2022,Syrian Arab Rep.,SYR,Algeria,DZA,7345,0,0,7345,686
+2011,Syrian Arab Rep.,SYR,Bahrain,BHR,0,5,0,5,
+2012,Syrian Arab Rep.,SYR,Bahrain,BHR,0,5,0,5,0
+2020,Syrian Arab Rep.,SYR,Bahrain,BHR,0,23,0,23,18
+2021,Syrian Arab Rep.,SYR,Bahrain,BHR,5,36,0,41,18
+2022,Syrian Arab Rep.,SYR,Bahrain,BHR,5,40,0,45,4
+2010,Syrian Arab Rep.,SYR,Egypt,EGY,8,0,0,8,
+2011,Syrian Arab Rep.,SYR,Egypt,EGY,9,85,0,94,86
+2012,Syrian Arab Rep.,SYR,Egypt,EGY,12836,0,0,12836,12742
+2013,Syrian Arab Rep.,SYR,Egypt,EGY,131659,0,0,131659,118823
+2014,Syrian Arab Rep.,SYR,Egypt,EGY,138381,0,0,138381,6722
+2015,Syrian Arab Rep.,SYR,Egypt,EGY,117635,0,0,117635,-20746
+2016,Syrian Arab Rep.,SYR,Egypt,EGY,116013,0,0,116013,-1622
+2017,Syrian Arab Rep.,SYR,Egypt,EGY,126688,0,0,126688,10675
+2018,Syrian Arab Rep.,SYR,Egypt,EGY,132871,0,0,132871,6183
+2019,Syrian Arab Rep.,SYR,Egypt,EGY,129210,0,0,129210,-3661
+2020,Syrian Arab Rep.,SYR,Egypt,EGY,130577,0,0,130577,1367
+2021,Syrian Arab Rep.,SYR,Egypt,EGY,136727,0,0,136727,6150
+2022,Syrian Arab Rep.,SYR,Egypt,EGY,143803,0,0,143803,7076
+2010,Syrian Arab Rep.,SYR,Iraq,IRQ,254,968,0,1222,
+2011,Syrian Arab Rep.,SYR,Iraq,IRQ,323,1391,0,1714,492
+2012,Syrian Arab Rep.,SYR,Iraq,IRQ,63586,1185,0,64771,63057
+2013,Syrian Arab Rep.,SYR,Iraq,IRQ,212809,1164,0,213973,149202
+2014,Syrian Arab Rep.,SYR,Iraq,IRQ,234196,1225,0,235421,21448
+2015,Syrian Arab Rep.,SYR,Iraq,IRQ,244642,0,0,244642,9221
+2016,Syrian Arab Rep.,SYR,Iraq,IRQ,230836,0,99,230935,-13707
+2017,Syrian Arab Rep.,SYR,Iraq,IRQ,247057,0,0,247057,16122
+2018,Syrian Arab Rep.,SYR,Iraq,IRQ,252526,0,0,252526,5469
+2019,Syrian Arab Rep.,SYR,Iraq,IRQ,245810,0,0,245810,-6716
+2020,Syrian Arab Rep.,SYR,Iraq,IRQ,242163,0,0,242163,-3647
+2021,Syrian Arab Rep.,SYR,Iraq,IRQ,254561,0,0,254561,12398
+2022,Syrian Arab Rep.,SYR,Iraq,IRQ,262756,0,0,262756,8195
+2010,Syrian Arab Rep.,SYR,Jordan,JOR,198,287,0,485,
+2011,Syrian Arab Rep.,SYR,Jordan,JOR,193,2618,0,2811,2326
+2012,Syrian Arab Rep.,SYR,Jordan,JOR,238798,491,0,239289,236478
+2013,Syrian Arab Rep.,SYR,Jordan,JOR,585304,0,0,585304,346015
+2014,Syrian Arab Rep.,SYR,Jordan,JOR,623112,0,0,623112,37808
+2015,Syrian Arab Rep.,SYR,Jordan,JOR,628223,0,0,628223,5111
+2016,Syrian Arab Rep.,SYR,Jordan,JOR,648836,0,0,648836,20613
+2017,Syrian Arab Rep.,SYR,Jordan,JOR,653031,0,0,653031,4195
+2018,Syrian Arab Rep.,SYR,Jordan,JOR,676283,0,0,676283,23252
+2019,Syrian Arab Rep.,SYR,Jordan,JOR,654692,0,0,654692,-21591
+2020,Syrian Arab Rep.,SYR,Jordan,JOR,662790,0,0,662790,8098
+2021,Syrian Arab Rep.,SYR,Jordan,JOR,672952,0,0,672952,10162
+2022,Syrian Arab Rep.,SYR,Jordan,JOR,675433,0,0,675433,2481
+2010,Syrian Arab Rep.,SYR,Kuwait,KWT,5,13,0,18,
+2011,Syrian Arab Rep.,SYR,Kuwait,KWT,10,10,0,20,2
+2012,Syrian Arab Rep.,SYR,Kuwait,KWT,15,8,0,23,3
+2013,Syrian Arab Rep.,SYR,Kuwait,KWT,13,8,0,21,-2
+2014,Syrian Arab Rep.,SYR,Kuwait,KWT,15,7,0,22,1
+2015,Syrian Arab Rep.,SYR,Kuwait,KWT,14,6,0,20,-2
+2016,Syrian Arab Rep.,SYR,Kuwait,KWT,50,24,0,74,54
+2017,Syrian Arab Rep.,SYR,Kuwait,KWT,44,31,0,75,1
+2018,Syrian Arab Rep.,SYR,Kuwait,KWT,73,50,0,123,48
+2019,Syrian Arab Rep.,SYR,Kuwait,KWT,106,100,0,206,83
+2020,Syrian Arab Rep.,SYR,Kuwait,KWT,139,77,0,216,10
+2021,Syrian Arab Rep.,SYR,Kuwait,KWT,150,104,0,254,38
+2022,Syrian Arab Rep.,SYR,Kuwait,KWT,147,107,0,254,0
+2010,Syrian Arab Rep.,SYR,Lebanon,LBN,64,141,0,205,
+2011,Syrian Arab Rep.,SYR,Lebanon,LBN,124,368,4840,5332,5127
+2012,Syrian Arab Rep.,SYR,Lebanon,LBN,126939,242,0,127181,121849
+2013,Syrian Arab Rep.,SYR,Lebanon,LBN,851284,332,0,851616,724435
+2014,Syrian Arab Rep.,SYR,Lebanon,LBN,1147494,418,1992,1149904,298288
+2015,Syrian Arab Rep.,SYR,Lebanon,LBN,1062690,16,2242,1064948,-84956
+2016,Syrian Arab Rep.,SYR,Lebanon,LBN,1005503,10,2236,1007749,-57199
+2017,Syrian Arab Rep.,SYR,Lebanon,LBN,992127,10,2248,994385,-13364
+2018,Syrian Arab Rep.,SYR,Lebanon,LBN,944181,5,2033,946219,-48166
+2019,Syrian Arab Rep.,SYR,Lebanon,LBN,910586,0,1932,912518,-33701
+2020,Syrian Arab Rep.,SYR,Lebanon,LBN,865300,0,1644,866944,-45574
+2021,Syrian Arab Rep.,SYR,Lebanon,LBN,840929,0,1711,842640,-24304
+2022,Syrian Arab Rep.,SYR,Lebanon,LBN,831053,0,1974,833027,-9613
+2012,Syrian Arab Rep.,SYR,Libya,LBY,0,3794,0,3794,
+2013,Syrian Arab Rep.,SYR,Libya,LBY,16796,0,0,16796,13002
+2014,Syrian Arab Rep.,SYR,Libya,LBY,18653,0,0,18653,1857
+2015,Syrian Arab Rep.,SYR,Libya,LBY,97,18591,0,18688,35
+2016,Syrian Arab Rep.,SYR,Libya,LBY,142,19366,0,19508,820
+2017,Syrian Arab Rep.,SYR,Libya,LBY,257,21890,0,22147,2639
+2018,Syrian Arab Rep.,SYR,Libya,LBY,552,23173,0,23725,1578
+2019,Syrian Arab Rep.,SYR,Libya,LBY,612,16738,0,17350,-6375
+2020,Syrian Arab Rep.,SYR,Libya,LBY,717,13819,0,14536,-2814
+2021,Syrian Arab Rep.,SYR,Libya,LBY,492,12632,0,13124,-1412
+2022,Syrian Arab Rep.,SYR,Libya,LBY,480,13682,0,14162,1038
+2013,Syrian Arab Rep.,SYR,Mauritania,MRT,5,41,0,46,
+2014,Syrian Arab Rep.,SYR,Mauritania,MRT,41,54,0,95,49
+2015,Syrian Arab Rep.,SYR,Mauritania,MRT,215,107,0,322,227
+2016,Syrian Arab Rep.,SYR,Mauritania,MRT,417,120,0,537,215
+2017,Syrian Arab Rep.,SYR,Mauritania,MRT,464,112,0,576,39
+2018,Syrian Arab Rep.,SYR,Mauritania,MRT,332,47,0,379,-197
+2019,Syrian Arab Rep.,SYR,Mauritania,MRT,355,36,0,391,12
+2020,Syrian Arab Rep.,SYR,Mauritania,MRT,364,55,0,419,28
+2021,Syrian Arab Rep.,SYR,Mauritania,MRT,368,141,0,509,90
+2022,Syrian Arab Rep.,SYR,Mauritania,MRT,381,183,0,564,55
+2011,Syrian Arab Rep.,SYR,Morocco,MAR,0,5,0,5,
+2012,Syrian Arab Rep.,SYR,Morocco,MAR,0,842,0,842,837
+2013,Syrian Arab Rep.,SYR,Morocco,MAR,856,0,0,856,14
+2014,Syrian Arab Rep.,SYR,Morocco,MAR,647,0,0,647,-209
+2015,Syrian Arab Rep.,SYR,Morocco,MAR,2619,0,0,2619,1972
+2016,Syrian Arab Rep.,SYR,Morocco,MAR,3242,0,0,3242,623
+2017,Syrian Arab Rep.,SYR,Morocco,MAR,2953,0,0,2953,-289
+2018,Syrian Arab Rep.,SYR,Morocco,MAR,3506,0,0,3506,553
+2019,Syrian Arab Rep.,SYR,Morocco,MAR,3676,0,0,3676,170
+2020,Syrian Arab Rep.,SYR,Morocco,MAR,4528,0,0,4528,852
+2021,Syrian Arab Rep.,SYR,Morocco,MAR,5082,0,0,5082,554
+2022,Syrian Arab Rep.,SYR,Morocco,MAR,5250,0,0,5250,168
+2010,Syrian Arab Rep.,SYR,Oman,OMN,7,0,0,7,
+2011,Syrian Arab Rep.,SYR,Oman,OMN,7,5,0,12,5
+2012,Syrian Arab Rep.,SYR,Oman,OMN,7,5,0,12,0
+2013,Syrian Arab Rep.,SYR,Oman,OMN,7,5,0,12,0
+2014,Syrian Arab Rep.,SYR,Oman,OMN,7,6,0,13,1
+2015,Syrian Arab Rep.,SYR,Oman,OMN,7,5,0,12,-1
+2016,Syrian Arab Rep.,SYR,Oman,OMN,7,6,0,13,1
+2017,Syrian Arab Rep.,SYR,Oman,OMN,7,6,0,13,0
+2018,Syrian Arab Rep.,SYR,Oman,OMN,7,0,0,7,-6
+2019,Syrian Arab Rep.,SYR,Oman,OMN,8,0,0,8,1
+2020,Syrian Arab Rep.,SYR,Oman,OMN,8,22,0,30,22
+2021,Syrian Arab Rep.,SYR,Oman,OMN,8,27,0,35,5
+2022,Syrian Arab Rep.,SYR,Oman,OMN,8,27,0,35,0
+2010,Syrian Arab Rep.,SYR,Qatar,QAT,8,0,0,8,
+2011,Syrian Arab Rep.,SYR,Qatar,QAT,8,0,0,8,0
+2012,Syrian Arab Rep.,SYR,Qatar,QAT,8,0,0,8,0
+2013,Syrian Arab Rep.,SYR,Qatar,QAT,8,0,0,8,0
+2014,Syrian Arab Rep.,SYR,Qatar,QAT,14,0,0,14,6
+2015,Syrian Arab Rep.,SYR,Qatar,QAT,14,0,0,14,0
+2016,Syrian Arab Rep.,SYR,Qatar,QAT,32,5,0,37,23
+2017,Syrian Arab Rep.,SYR,Qatar,QAT,34,0,0,34,-3
+2018,Syrian Arab Rep.,SYR,Qatar,QAT,34,0,0,34,0
+2019,Syrian Arab Rep.,SYR,Qatar,QAT,34,0,0,34,0
+2020,Syrian Arab Rep.,SYR,Qatar,QAT,34,89,0,123,89
+2021,Syrian Arab Rep.,SYR,Qatar,QAT,30,109,0,139,16
+2022,Syrian Arab Rep.,SYR,Qatar,QAT,30,117,0,147,8
+2010,Syrian Arab Rep.,SYR,Saudi Arabia,SAU,14,7,0,21,
+2011,Syrian Arab Rep.,SYR,Saudi Arabia,SAU,14,12,0,26,5
+2012,Syrian Arab Rep.,SYR,Saudi Arabia,SAU,14,12,0,26,0
+2013,Syrian Arab Rep.,SYR,Saudi Arabia,SAU,14,12,0,26,0
+2014,Syrian Arab Rep.,SYR,Saudi Arabia,SAU,18,12,0,30,4
+2015,Syrian Arab Rep.,SYR,Saudi Arabia,SAU,9,0,0,9,-21
+2016,Syrian Arab Rep.,SYR,Saudi Arabia,SAU,19,10,0,29,20
+2017,Syrian Arab Rep.,SYR,Saudi Arabia,SAU,14,34,0,48,19
+2018,Syrian Arab Rep.,SYR,Saudi Arabia,SAU,103,2063,0,2166,2118
+2019,Syrian Arab Rep.,SYR,Saudi Arabia,SAU,152,2220,0,2372,206
+2020,Syrian Arab Rep.,SYR,Saudi Arabia,SAU,173,7671,0,7844,5472
+2021,Syrian Arab Rep.,SYR,Saudi Arabia,SAU,186,9884,0,10070,2226
+2022,Syrian Arab Rep.,SYR,Saudi Arabia,SAU,194,10625,0,10819,749
+2012,Syrian Arab Rep.,SYR,Syrian Arab Rep.,SYR,0,0,0,0,
+2013,Syrian Arab Rep.,SYR,Syrian Arab Rep.,SYR,0,0,0,0,0
+2014,Syrian Arab Rep.,SYR,Syrian Arab Rep.,SYR,0,0,0,0,0
+2015,Syrian Arab Rep.,SYR,Syrian Arab Rep.,SYR,0,0,0,0,0
+2016,Syrian Arab Rep.,SYR,Syrian Arab Rep.,SYR,0,0,0,0,0
+2017,Syrian Arab Rep.,SYR,Syrian Arab Rep.,SYR,0,0,0,0,0
+2018,Syrian Arab Rep.,SYR,Syrian Arab Rep.,SYR,0,0,0,0,0
+2019,Syrian Arab Rep.,SYR,Syrian Arab Rep.,SYR,0,0,0,0,0
+2020,Syrian Arab Rep.,SYR,Syrian Arab Rep.,SYR,0,0,0,0,0
+2021,Syrian Arab Rep.,SYR,Syrian Arab Rep.,SYR,0,0,0,0,0
+2022,Syrian Arab Rep.,SYR,Syrian Arab Rep.,SYR,0,0,0,0,0
+2010,Syrian Arab Rep.,SYR,Tunisia,TUN,5,0,0,5,
+2011,Syrian Arab Rep.,SYR,Tunisia,TUN,11,0,0,11,6
+2012,Syrian Arab Rep.,SYR,Tunisia,TUN,6,30,0,36,25
+2013,Syrian Arab Rep.,SYR,Tunisia,TUN,164,0,0,164,128
+2014,Syrian Arab Rep.,SYR,Tunisia,TUN,558,0,0,558,394
+2015,Syrian Arab Rep.,SYR,Tunisia,TUN,499,0,0,499,-59
+2016,Syrian Arab Rep.,SYR,Tunisia,TUN,504,0,0,504,5
+2017,Syrian Arab Rep.,SYR,Tunisia,TUN,603,0,0,603,99
+2018,Syrian Arab Rep.,SYR,Tunisia,TUN,927,0,0,927,324
+2019,Syrian Arab Rep.,SYR,Tunisia,TUN,1382,0,0,1382,455
+2020,Syrian Arab Rep.,SYR,Tunisia,TUN,1997,0,0,1997,615
+2021,Syrian Arab Rep.,SYR,Tunisia,TUN,2523,0,0,2523,526
+2022,Syrian Arab Rep.,SYR,Tunisia,TUN,2669,0,0,2669,146
+2010,Syrian Arab Rep.,SYR,United Arab Emirates,ARE,34,9,0,43,
+2011,Syrian Arab Rep.,SYR,United Arab Emirates,ARE,37,6,0,43,0
+2012,Syrian Arab Rep.,SYR,United Arab Emirates,ARE,16,14,0,30,-13
+2013,Syrian Arab Rep.,SYR,United Arab Emirates,ARE,16,14,0,30,0
+2014,Syrian Arab Rep.,SYR,United Arab Emirates,ARE,28,12,0,40,10
+2015,Syrian Arab Rep.,SYR,United Arab Emirates,ARE,36,109,0,145,105
+2016,Syrian Arab Rep.,SYR,United Arab Emirates,ARE,119,165,0,284,139
+2017,Syrian Arab Rep.,SYR,United Arab Emirates,ARE,128,1185,0,1313,1029
+2018,Syrian Arab Rep.,SYR,United Arab Emirates,ARE,287,5820,10,6117,4804
+2019,Syrian Arab Rep.,SYR,United Arab Emirates,ARE,333,6575,11,6919,802
+2020,Syrian Arab Rep.,SYR,United Arab Emirates,ARE,383,6551,11,6945,26
+2021,Syrian Arab Rep.,SYR,United Arab Emirates,ARE,439,6526,11,6976,31
+2022,Syrian Arab Rep.,SYR,United Arab Emirates,ARE,487,6486,11,6984,8
+2010,Syrian Arab Rep.,SYR,Yemen,YEM,52,34,0,86,
+2011,Syrian Arab Rep.,SYR,Yemen,YEM,42,24,0,66,-20
+2012,Syrian Arab Rep.,SYR,Yemen,YEM,42,131,0,173,107
+2013,Syrian Arab Rep.,SYR,Yemen,YEM,54,1761,0,1815,1642
+2014,Syrian Arab Rep.,SYR,Yemen,YEM,2276,1039,0,3315,1500
+2015,Syrian Arab Rep.,SYR,Yemen,YEM,3011,615,0,3626,311
+2016,Syrian Arab Rep.,SYR,Yemen,YEM,3249,502,0,3751,125
+2017,Syrian Arab Rep.,SYR,Yemen,YEM,3286,496,0,3782,31
+2018,Syrian Arab Rep.,SYR,Yemen,YEM,3446,406,0,3852,70
+2019,Syrian Arab Rep.,SYR,Yemen,YEM,3551,407,0,3958,106
+2020,Syrian Arab Rep.,SYR,Yemen,YEM,3609,419,0,4028,70
+2021,Syrian Arab Rep.,SYR,Yemen,YEM,2513,420,0,2933,-1095
+2022,Syrian Arab Rep.,SYR,Yemen,YEM,2574,422,0,2996,63
+2017,Tunisia,TUN,Algeria,DZA,0,5,0,5,
+2020,Tunisia,TUN,Bahrain,BHR,0,6,0,6,
+2021,Tunisia,TUN,Bahrain,BHR,0,6,0,6,0
+2022,Tunisia,TUN,Bahrain,BHR,0,6,0,6,0
+2010,Tunisia,TUN,Egypt,EGY,5,0,0,5,
+2011,Tunisia,TUN,Egypt,EGY,0,5,0,5,0
+2012,Tunisia,TUN,Egypt,EGY,0,8,0,8,3
+2013,Tunisia,TUN,Egypt,EGY,0,9,0,9,1
+2018,Tunisia,TUN,Egypt,EGY,0,5,0,5,-4
+2019,Tunisia,TUN,Egypt,EGY,5,0,0,5,0
+2020,Tunisia,TUN,Egypt,EGY,5,0,0,5,0
+2021,Tunisia,TUN,Egypt,EGY,5,0,0,5,0
+2022,Tunisia,TUN,Egypt,EGY,5,0,0,5,0
+2014,Tunisia,TUN,Iraq,IRQ,0,6,0,6,
+2015,Tunisia,TUN,Iraq,IRQ,0,6,0,6,0
+2016,Tunisia,TUN,Iraq,IRQ,0,6,0,6,0
+2017,Tunisia,TUN,Iraq,IRQ,0,6,0,6,0
+2018,Tunisia,TUN,Iraq,IRQ,0,6,0,6,0
+2019,Tunisia,TUN,Iraq,IRQ,0,6,0,6,0
+2020,Tunisia,TUN,Iraq,IRQ,0,6,0,6,0
+2021,Tunisia,TUN,Iraq,IRQ,0,5,0,5,-1
+2022,Tunisia,TUN,Iraq,IRQ,0,5,0,5,0
+2010,Tunisia,TUN,Jordan,JOR,0,5,0,5,
+2011,Tunisia,TUN,Jordan,JOR,5,13,0,18,13
+2012,Tunisia,TUN,Jordan,JOR,5,9,0,14,-4
+2013,Tunisia,TUN,Jordan,JOR,5,7,0,12,-2
+2014,Tunisia,TUN,Jordan,JOR,5,14,0,19,7
+2015,Tunisia,TUN,Jordan,JOR,6,16,0,22,3
+2016,Tunisia,TUN,Jordan,JOR,8,24,0,32,10
+2017,Tunisia,TUN,Jordan,JOR,8,20,0,28,-4
+2018,Tunisia,TUN,Jordan,JOR,9,21,0,30,2
+2019,Tunisia,TUN,Jordan,JOR,8,13,0,21,-9
+2020,Tunisia,TUN,Jordan,JOR,11,9,0,20,-1
+2021,Tunisia,TUN,Jordan,JOR,11,8,0,19,-1
+2022,Tunisia,TUN,Jordan,JOR,11,8,0,19,0
+2010,Tunisia,TUN,Lebanon,LBN,11,0,0,11,
+2011,Tunisia,TUN,Lebanon,LBN,8,0,0,8,-3
+2012,Tunisia,TUN,Lebanon,LBN,8,0,0,8,0
+2013,Tunisia,TUN,Lebanon,LBN,9,5,5,19,11
+2014,Tunisia,TUN,Lebanon,LBN,9,0,11,20,1
+2015,Tunisia,TUN,Lebanon,LBN,11,0,7,18,-2
+2016,Tunisia,TUN,Lebanon,LBN,11,0,7,18,0
+2017,Tunisia,TUN,Lebanon,LBN,11,0,7,18,0
+2018,Tunisia,TUN,Lebanon,LBN,11,0,0,11,-7
+2019,Tunisia,TUN,Lebanon,LBN,11,0,0,11,0
+2020,Tunisia,TUN,Lebanon,LBN,11,0,0,11,0
+2021,Tunisia,TUN,Lebanon,LBN,11,0,0,11,0
+2022,Tunisia,TUN,Lebanon,LBN,9,0,0,9,-2
+2010,Tunisia,TUN,Morocco,MAR,5,0,0,5,
+2019,Tunisia,TUN,Morocco,MAR,0,5,0,5,0
+2020,Tunisia,TUN,Morocco,MAR,0,5,0,5,0
+2022,Tunisia,TUN,Morocco,MAR,5,0,0,5,0
+2010,Tunisia,TUN,Saudi Arabia,SAU,6,0,0,6,
+2011,Tunisia,TUN,Saudi Arabia,SAU,6,0,0,6,0
+2012,Tunisia,TUN,Saudi Arabia,SAU,6,0,0,6,0
+2013,Tunisia,TUN,Saudi Arabia,SAU,6,0,0,6,0
+2014,Tunisia,TUN,Saudi Arabia,SAU,6,0,0,6,0
+2015,Tunisia,TUN,Saudi Arabia,SAU,6,0,0,6,0
+2016,Tunisia,TUN,Saudi Arabia,SAU,6,0,0,6,0
+2017,Tunisia,TUN,Saudi Arabia,SAU,6,0,0,6,0
+2018,Tunisia,TUN,Saudi Arabia,SAU,6,0,0,6,0
+2019,Tunisia,TUN,Saudi Arabia,SAU,7,0,0,7,1
+2020,Tunisia,TUN,Saudi Arabia,SAU,7,0,0,7,0
+2021,Tunisia,TUN,Saudi Arabia,SAU,6,6,0,12,5
+2022,Tunisia,TUN,Saudi Arabia,SAU,6,0,0,6,-6
+2010,Tunisia,TUN,Syrian Arab Rep.,SYR,0,18,0,18,
+2011,Tunisia,TUN,Syrian Arab Rep.,SYR,5,6,0,11,-7
+2012,Tunisia,TUN,Syrian Arab Rep.,SYR,5,14,0,19,8
+2013,Tunisia,TUN,Syrian Arab Rep.,SYR,0,24,0,24,5
+2014,Tunisia,TUN,Syrian Arab Rep.,SYR,6,26,0,32,8
+2015,Tunisia,TUN,Syrian Arab Rep.,SYR,6,27,0,33,1
+2016,Tunisia,TUN,Syrian Arab Rep.,SYR,6,12,0,18,-15
+2017,Tunisia,TUN,Syrian Arab Rep.,SYR,5,5,0,10,-8
+2018,Tunisia,TUN,Syrian Arab Rep.,SYR,5,0,0,5,-5
+2019,Tunisia,TUN,Syrian Arab Rep.,SYR,5,5,0,10,5
+2020,Tunisia,TUN,Syrian Arab Rep.,SYR,5,5,0,10,0
+2021,Tunisia,TUN,Syrian Arab Rep.,SYR,5,5,0,10,0
+2022,Tunisia,TUN,Syrian Arab Rep.,SYR,5,5,0,10,0
+2010,Tunisia,TUN,United Arab Emirates,ARE,0,10,0,10,
+2019,United Arab Emirates,ARE,Jordan,JOR,0,5,0,5,
+2020,United Arab Emirates,ARE,Jordan,JOR,0,5,0,5,0
+2013,United Arab Emirates,ARE,Lebanon,LBN,0,0,20,20,
+2010,Western Sahara,ESH,Algeria,DZA,90000,0,0,90000,
+2011,Western Sahara,ESH,Algeria,DZA,90000,0,0,90000,0
+2012,Western Sahara,ESH,Algeria,DZA,90000,0,0,90000,0
+2013,Western Sahara,ESH,Algeria,DZA,90000,0,0,90000,0
+2014,Western Sahara,ESH,Algeria,DZA,90000,0,0,90000,0
+2015,Western Sahara,ESH,Algeria,DZA,90000,0,0,90000,0
+2016,Western Sahara,ESH,Algeria,DZA,90000,0,0,90000,0
+2017,Western Sahara,ESH,Algeria,DZA,90000,0,0,90000,0
+2018,Western Sahara,ESH,Algeria,DZA,90000,0,0,90000,0
+2019,Western Sahara,ESH,Algeria,DZA,90000,0,0,90000,0
+2020,Western Sahara,ESH,Algeria,DZA,90000,0,0,90000,0
+2021,Western Sahara,ESH,Algeria,DZA,90000,0,0,90000,0
+2022,Western Sahara,ESH,Algeria,DZA,90000,0,0,90000,0
+2010,Western Sahara,ESH,Mauritania,MRT,26000,0,0,26000,
+2011,Western Sahara,ESH,Mauritania,MRT,26000,0,0,26000,0
+2012,Western Sahara,ESH,Mauritania,MRT,26000,0,0,26000,0
+2013,Western Sahara,ESH,Mauritania,MRT,26000,0,0,26000,0
+2014,Western Sahara,ESH,Mauritania,MRT,26000,0,0,26000,0
+2015,Western Sahara,ESH,Mauritania,MRT,26007,0,0,26007,7
+2016,Western Sahara,ESH,Mauritania,MRT,26000,0,0,26000,-7
+2017,Western Sahara,ESH,Mauritania,MRT,26000,0,0,26000,0
+2018,Western Sahara,ESH,Mauritania,MRT,26000,0,0,26000,0
+2019,Western Sahara,ESH,Mauritania,MRT,26000,0,0,26000,0
+2020,Western Sahara,ESH,Mauritania,MRT,26000,0,0,26000,0
+2021,Western Sahara,ESH,Mauritania,MRT,26000,0,0,26000,0
+2022,Western Sahara,ESH,Mauritania,MRT,26000,0,0,26000,0
+2012,Yemen,YEM,Algeria,DZA,0,5,0,5,
+2013,Yemen,YEM,Algeria,DZA,5,0,0,5,0
+2014,Yemen,YEM,Algeria,DZA,5,0,0,5,0
+2015,Yemen,YEM,Algeria,DZA,5,41,0,46,41
+2016,Yemen,YEM,Algeria,DZA,5,135,0,140,94
+2017,Yemen,YEM,Algeria,DZA,5,155,0,160,20
+2018,Yemen,YEM,Algeria,DZA,10,239,0,249,89
+2019,Yemen,YEM,Algeria,DZA,257,0,0,257,8
+2020,Yemen,YEM,Algeria,DZA,261,0,0,261,4
+2021,Yemen,YEM,Algeria,DZA,267,0,0,267,6
+2022,Yemen,YEM,Algeria,DZA,309,0,0,309,42
+2014,Yemen,YEM,Bahrain,BHR,7,0,0,7,
+2015,Yemen,YEM,Bahrain,BHR,9,5,0,14,7
+2016,Yemen,YEM,Bahrain,BHR,9,5,0,14,0
+2017,Yemen,YEM,Bahrain,BHR,9,5,0,14,0
+2018,Yemen,YEM,Bahrain,BHR,9,5,0,14,0
+2019,Yemen,YEM,Bahrain,BHR,9,5,0,14,0
+2020,Yemen,YEM,Bahrain,BHR,9,5,0,14,0
+2021,Yemen,YEM,Bahrain,BHR,9,5,0,14,0
+2022,Yemen,YEM,Bahrain,BHR,9,5,0,14,0
+2010,Yemen,YEM,Egypt,EGY,205,9,0,214,
+2011,Yemen,YEM,Egypt,EGY,205,50,0,255,41
+2012,Yemen,YEM,Egypt,EGY,207,120,0,327,72
+2013,Yemen,YEM,Egypt,EGY,216,188,0,404,77
+2014,Yemen,YEM,Egypt,EGY,198,215,0,413,9
+2015,Yemen,YEM,Egypt,EGY,54,1328,0,1382,969
+2016,Yemen,YEM,Egypt,EGY,66,2572,0,2638,1256
+2017,Yemen,YEM,Egypt,EGY,85,4500,0,4585,1947
+2018,Yemen,YEM,Egypt,EGY,100,8222,0,8322,3737
+2019,Yemen,YEM,Egypt,EGY,126,9032,0,9158,836
+2020,Yemen,YEM,Egypt,EGY,154,9113,0,9267,109
+2021,Yemen,YEM,Egypt,EGY,156,9735,0,9891,624
+2022,Yemen,YEM,Egypt,EGY,163,10482,0,10645,754
+2010,Yemen,YEM,Iraq,IRQ,0,5,0,5,
+2011,Yemen,YEM,Iraq,IRQ,0,5,0,5,0
+2012,Yemen,YEM,Iraq,IRQ,0,5,0,5,0
+2013,Yemen,YEM,Iraq,IRQ,0,13,0,13,8
+2014,Yemen,YEM,Iraq,IRQ,0,16,0,16,3
+2015,Yemen,YEM,Iraq,IRQ,0,15,0,15,-1
+2016,Yemen,YEM,Iraq,IRQ,0,50,0,50,35
+2017,Yemen,YEM,Iraq,IRQ,0,84,0,84,34
+2018,Yemen,YEM,Iraq,IRQ,0,114,0,114,30
+2019,Yemen,YEM,Iraq,IRQ,0,147,0,147,33
+2020,Yemen,YEM,Iraq,IRQ,0,165,0,165,18
+2021,Yemen,YEM,Iraq,IRQ,0,165,0,165,0
+2022,Yemen,YEM,Iraq,IRQ,0,166,0,166,1
+2010,Yemen,YEM,Jordan,JOR,5,23,0,28,
+2011,Yemen,YEM,Jordan,JOR,5,134,0,139,111
+2012,Yemen,YEM,Jordan,JOR,8,100,0,108,-31
+2013,Yemen,YEM,Jordan,JOR,0,100,0,100,-8
+2014,Yemen,YEM,Jordan,JOR,16,292,0,308,208
+2015,Yemen,YEM,Jordan,JOR,47,3183,0,3230,2922
+2016,Yemen,YEM,Jordan,JOR,180,5524,0,5704,2474
+2017,Yemen,YEM,Jordan,JOR,494,8951,0,9445,3741
+2018,Yemen,YEM,Jordan,JOR,642,13835,0,14477,5032
+2019,Yemen,YEM,Jordan,JOR,715,14059,17,14791,314
+2020,Yemen,YEM,Jordan,JOR,818,13552,18,14388,-403
+2021,Yemen,YEM,Jordan,JOR,1024,11753,18,12795,-1593
+2022,Yemen,YEM,Jordan,JOR,1668,11236,19,12923,128
+2011,Yemen,YEM,Kuwait,KWT,0,9,0,9,
+2012,Yemen,YEM,Kuwait,KWT,0,9,0,9,0
+2013,Yemen,YEM,Kuwait,KWT,0,9,0,9,0
+2014,Yemen,YEM,Kuwait,KWT,0,10,0,10,1
+2015,Yemen,YEM,Kuwait,KWT,0,10,0,10,0
+2016,Yemen,YEM,Kuwait,KWT,0,10,0,10,0
+2017,Yemen,YEM,Kuwait,KWT,5,9,0,14,4
+2018,Yemen,YEM,Kuwait,KWT,5,9,0,14,0
+2019,Yemen,YEM,Kuwait,KWT,5,9,0,14,0
+2020,Yemen,YEM,Kuwait,KWT,6,10,0,16,2
+2021,Yemen,YEM,Kuwait,KWT,9,10,0,19,3
+2022,Yemen,YEM,Kuwait,KWT,9,10,0,19,0
+2010,Yemen,YEM,Lebanon,LBN,5,0,0,5,
+2011,Yemen,YEM,Lebanon,LBN,0,5,0,5,0
+2012,Yemen,YEM,Lebanon,LBN,0,5,0,5,0
+2013,Yemen,YEM,Lebanon,LBN,0,9,6,15,10
+2014,Yemen,YEM,Lebanon,LBN,0,11,13,24,9
+2015,Yemen,YEM,Lebanon,LBN,7,56,6,69,45
+2016,Yemen,YEM,Lebanon,LBN,14,59,5,78,9
+2017,Yemen,YEM,Lebanon,LBN,15,103,5,123,45
+2018,Yemen,YEM,Lebanon,LBN,18,136,0,154,31
+2019,Yemen,YEM,Lebanon,LBN,23,124,5,152,-2
+2020,Yemen,YEM,Lebanon,LBN,25,104,0,129,-23
+2021,Yemen,YEM,Lebanon,LBN,34,97,0,131,2
+2022,Yemen,YEM,Lebanon,LBN,31,98,0,129,-2
+2017,Yemen,YEM,Libya,LBY,0,26,0,26,
+2018,Yemen,YEM,Libya,LBY,0,43,0,43,17
+2019,Yemen,YEM,Libya,LBY,0,47,0,47,4
+2020,Yemen,YEM,Libya,LBY,0,86,0,86,39
+2021,Yemen,YEM,Libya,LBY,12,101,0,113,27
+2022,Yemen,YEM,Libya,LBY,11,115,0,126,13
+2016,Yemen,YEM,Mauritania,MRT,5,0,0,5,
+2017,Yemen,YEM,Mauritania,MRT,5,0,0,5,0
+2018,Yemen,YEM,Mauritania,MRT,0,12,0,12,7
+2019,Yemen,YEM,Mauritania,MRT,10,37,0,47,35
+2020,Yemen,YEM,Mauritania,MRT,36,27,0,63,16
+2021,Yemen,YEM,Mauritania,MRT,45,42,0,87,24
+2022,Yemen,YEM,Mauritania,MRT,45,29,0,74,-13
+2013,Yemen,YEM,Morocco,MAR,0,5,0,5,
+2014,Yemen,YEM,Morocco,MAR,0,5,0,5,0
+2015,Yemen,YEM,Morocco,MAR,461,0,0,461,456
+2016,Yemen,YEM,Morocco,MAR,485,0,0,485,24
+2017,Yemen,YEM,Morocco,MAR,517,0,0,517,32
+2018,Yemen,YEM,Morocco,MAR,752,0,0,752,235
+2019,Yemen,YEM,Morocco,MAR,843,0,0,843,91
+2020,Yemen,YEM,Morocco,MAR,14,964,0,978,135
+2021,Yemen,YEM,Morocco,MAR,14,1088,0,1102,124
+2022,Yemen,YEM,Morocco,MAR,19,1179,0,1198,96
+2011,Yemen,YEM,Qatar,QAT,0,5,0,5,
+2012,Yemen,YEM,Qatar,QAT,0,5,0,5,0
+2019,Yemen,YEM,Qatar,QAT,5,0,0,5,0
+2020,Yemen,YEM,Qatar,QAT,5,9,0,14,9
+2021,Yemen,YEM,Qatar,QAT,5,9,0,14,0
+2022,Yemen,YEM,Qatar,QAT,5,9,0,14,0
+2015,Yemen,YEM,Saudi Arabia,SAU,5,0,0,5,
+2016,Yemen,YEM,Saudi Arabia,SAU,7,0,0,7,2
+2017,Yemen,YEM,Saudi Arabia,SAU,9,5,0,14,7
+2018,Yemen,YEM,Saudi Arabia,SAU,27,42,0,69,55
+2019,Yemen,YEM,Saudi Arabia,SAU,27,44,0,71,2
+2020,Yemen,YEM,Saudi Arabia,SAU,26,635,0,661,590
+2021,Yemen,YEM,Saudi Arabia,SAU,18,1016,0,1034,373
+2022,Yemen,YEM,Saudi Arabia,SAU,14,1150,0,1164,130
+2010,Yemen,YEM,Syrian Arab Rep.,SYR,58,90,0,148,
+2011,Yemen,YEM,Syrian Arab Rep.,SYR,68,113,0,181,33
+2012,Yemen,YEM,Syrian Arab Rep.,SYR,73,166,0,239,58
+2013,Yemen,YEM,Syrian Arab Rep.,SYR,60,78,0,138,-101
+2014,Yemen,YEM,Syrian Arab Rep.,SYR,59,57,0,116,-22
+2015,Yemen,YEM,Syrian Arab Rep.,SYR,52,88,0,140,24
+2016,Yemen,YEM,Syrian Arab Rep.,SYR,40,150,0,190,50
+2017,Yemen,YEM,Syrian Arab Rep.,SYR,123,169,0,292,102
+2018,Yemen,YEM,Syrian Arab Rep.,SYR,159,135,0,294,2
+2019,Yemen,YEM,Syrian Arab Rep.,SYR,159,110,0,269,-25
+2020,Yemen,YEM,Syrian Arab Rep.,SYR,158,118,0,276,7
+2021,Yemen,YEM,Syrian Arab Rep.,SYR,161,127,0,288,12
+2022,Yemen,YEM,Syrian Arab Rep.,SYR,177,142,0,319,31
+2014,Yemen,YEM,Tunisia,TUN,0,5,0,5,
+2015,Yemen,YEM,Tunisia,TUN,0,7,0,7,2
+2016,Yemen,YEM,Tunisia,TUN,0,9,0,9,2
+2017,Yemen,YEM,Tunisia,TUN,0,21,0,21,12
+2018,Yemen,YEM,Tunisia,TUN,0,32,0,32,11
+2019,Yemen,YEM,Tunisia,TUN,0,31,0,31,-1
+2020,Yemen,YEM,Tunisia,TUN,11,28,0,39,8
+2021,Yemen,YEM,Tunisia,TUN,14,20,0,34,-5
+2022,Yemen,YEM,Tunisia,TUN,14,26,0,40,6
+2017,Yemen,YEM,United Arab Emirates,ARE,0,24,0,24,
+2018,Yemen,YEM,United Arab Emirates,ARE,5,33,0,38,14
+2019,Yemen,YEM,United Arab Emirates,ARE,12,50,5,67,29
+2020,Yemen,YEM,United Arab Emirates,ARE,6,50,5,61,-6
+2021,Yemen,YEM,United Arab Emirates,ARE,6,50,5,61,0
+2022,Yemen,YEM,United Arab Emirates,ARE,6,50,5,61,0
+2010,Yemen,YEM,Yemen,YEM,0,0,0,0,
+2011,Yemen,YEM,Yemen,YEM,0,0,0,0,0
+2012,Yemen,YEM,Yemen,YEM,0,0,0,0,0
+2013,Yemen,YEM,Yemen,YEM,0,0,0,0,0
+2014,Yemen,YEM,Yemen,YEM,0,0,0,0,0
+2015,Yemen,YEM,Yemen,YEM,0,0,6,6,6
+2016,Yemen,YEM,Yemen,YEM,0,0,0,0,-6
+2017,Yemen,YEM,Yemen,YEM,0,0,0,0,0
+2018,Yemen,YEM,Yemen,YEM,0,0,0,0,0
+2019,Yemen,YEM,Yemen,YEM,0,0,0,0,0
+2020,Yemen,YEM,Yemen,YEM,0,0,0,0,0
+2021,Yemen,YEM,Yemen,YEM,0,0,0,0,0
+2022,Yemen,YEM,Yemen,YEM,0,0,0,0,0
