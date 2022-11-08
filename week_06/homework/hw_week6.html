@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Police Deaths</title>
+    <style>
+        header {
+            font-family: Times, 'Times New Roman', serif;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        p {
+            font-family: Times, 'Times New Roman', serif;
+            font-size: 16px
+        }
+        
+        * {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: auto auto auto auto auto;
+            padding: 10px;
+        }
+
+        .grid-item {
+            border: .5px solid rgba(200, 200, 200, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <header>2015 Police Deaths</header>
+    <p>
+        I began with a broad picture, looking at the total number of deaths over the year. In this chart, I included the total
+        for each month, and below the monthly deaths broken down by race. Although I had assumed there would be more 
+        deaths from people of color, the majority of deaths every month are White, which reflects the overall racial makeup
+        of the country. On the other hand, in almost every month there are more deaths of Black victims than Hispanic, which
+        is contrary to census data. (However, the source data may define Hispanic differently.)
+        <br><br>
+        Originally I considered a stacked bar graph, but then I felt that it was too unclear for any race that was not on
+        the baseline. Therefore I went with a line, for time data, and grouped bars. Unfortunately, I wasn't able to find a
+        good position for the annotations that didn't overlap anything.
+    </p>
+    <div id="total_race"></div>
+    <p>
+        I was still curious about the racial bias I assumed would be present, so I looked at the 25 cities with the most
+        shootings. It was a mixed result. The plots do reflect that in some cities, more people of color died, and in general
+        this corresponds to the racial or ethnic makeup of those ciites. With only one year, of course, I do not have proof
+        to say there is definitively bias or not. I was also surprised New York wasn't in the top 25.
+        <br><br>
+        I again used grouped bar charts, arranged in a grid, for easier comparison. I wasn't sure how to include one
+        legend for all the charts easily, so I had to put labels on each plot, which used up more space than I might have
+        liked. I went back and forth on whether to include grid borders but decided in the end that it made the large amount
+        of text a little less overwhelming.
+    </p>
+    <div class="grid-container">
+        <div class="grid-item"><div id="grid_0"></div></div>
+        <div class="grid-item"><div id="grid_1"></div></div>
+        <div class="grid-item"><div id="grid_2"></div></div>
+        <div class="grid-item"><div id="grid_3"></div></div>
+        <div class="grid-item"><div id="grid_4"></div></div>
+        <div class="grid-item"><div id="grid_5"></div></div>
+        <div class="grid-item"><div id="grid_6"></div></div>
+        <div class="grid-item"><div id="grid_7"></div></div>
+        <div class="grid-item"><div id="grid_8"></div></div>
+        <div class="grid-item"><div id="grid_9"></div></div>
+        <div class="grid-item"><div id="grid_10"></div></div>
+        <div class="grid-item"><div id="grid_11"></div></div>
+        <div class="grid-item"><div id="grid_12"></div></div>
+        <div class="grid-item"><div id="grid_13"></div></div>
+        <div class="grid-item"><div id="grid_14"></div></div>
+        <div class="grid-item"><div id="grid_15"></div></div>
+        <div class="grid-item"><div id="grid_16"></div></div>
+        <div class="grid-item"><div id="grid_17"></div></div>
+        <div class="grid-item"><div id="grid_18"></div></div>
+        <div class="grid-item"><div id="grid_19"></div></div>
+        <div class="grid-item"><div id="grid_20"></div></div>
+        <div class="grid-item"><div id="grid_21"></div></div>
+        <div class="grid-item"><div id="grid_22"></div></div>
+        <div class="grid-item"><div id="grid_23"></div></div>
+        <div class="grid-item"><div id="grid_24"></div></div>
+    </div>
+    <p>
+        Lastly, I wanted to look at the distribution by state. The majority of states had relatively few deaths, and those
+        between 10 and 40 could show some improvement. Texas and California far outpace the rest, and not even proportionally
+        to their populations. We could already see that coming from the number of Texas and California cities above.
+        <br><br>
+        While I had considered a pie chart/ring, with 50 categories (and a few very small) it would get illegible. I would
+        like to improve the histogram with tooltips that show which states fall in each bin. A waffle chart would be nice
+        conceptually for this datapoint, as an array of squares with intensity of color showing number of deaths. I was
+        concerned, though, that any color scale would not work well due to the two extreme outliers forcing all the rest
+        into less than half of the designated color range.
+    </p>
+    <div id="states"></div>
+    <p>
+        In conclusion, I will add that the biggest place where this analysis is lacking is data validation. There are a
+        fair number of duplicated datapoints which have slight misspellings in the name and differences in date, armed
+        status, etc. This would require some heavy cleaning with string similarity (and probably would be better in
+        Python than JavaScript).
+    </p>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="total_race.js"></script>
+    <script src="city_races.js"></script>
+    <script src="states_histogram.js"></script>
+</body>
+</html>
