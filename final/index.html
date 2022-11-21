@@ -4,13 +4,39 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Water Conflict and Refugees</title>
 </head>
 <body>
-    <div id="conflicts_by_country"></div>
-    <div id="conflicts_by_year"></div>
+    <header>Water Conflict and Refugee Flows in the Arab World</header>
+    <p>I was having trouble with the transitions and am still working on my second/third chart (combined).
+        I am also having trouble with my chord chart but hopefully will be able to figure these out Monday/Tuesday.</p>
+
+    <div id="refugees_wb"></div>
+
+    <div id="conflicts_refugees">
+        <label>
+            Country:
+            <select>
+              <option value="Algeria">Algeria</option>
+              <option value="Egypt">Egypt</option>
+              <option value="Iraq">Iraq</option>
+              <option value="Israel">Israel</option>
+              <option value="Jordan">Jordan</option>
+              <option value="Lebanon">Lebanon</option>
+              <option value="Libya">Libya</option>
+              <option value="Morocco">Morocco</option>
+              <option value="Palestine">Palestine</option>
+              <option value="Saudi Arabia">Saudi Arabia</option>
+              <option value="Syria">Syria</option>
+              <option value="Tunisia">Tunisia</option>
+              <option value="Yemen">Yemen</option>
+            </select>
+         </label>
+    </div>
+
 
     <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="scatter.js"></script>
     <script src="water.js"></script>
 </body>
 </html>
