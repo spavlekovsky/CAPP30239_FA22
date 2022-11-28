@@ -12,7 +12,7 @@
         I am also having trouble with my chord chart but hopefully will be able to figure these out Monday/Tuesday.</p>
 
     <p>
-        Refugees by Country of Origin vs. Country of Asylum
+        Refugees by Country of Origin vs. Country of Asylumt
         <div id="refugees_wb"></div>
         <a href="https://data.worldbank.org/">World Bank: Refugee Stocks</a>
     </p>
@@ -21,7 +21,7 @@
         <div id="conflicts_refugees">
             <label>
                 Country:
-                <select>
+                <select id="selectwater">
                 <option value="Algeria">Algeria</option>
                 <option value="Egypt">Egypt</option>
                 <option value="Iraq">Iraq</option>
@@ -41,9 +41,33 @@
         </div>
         <a href='https://www.worldwater.org/water-conflict/'>Pacific Institute: Water Conflicts</a>
     </p>
+    <p>
+        <div id="chord">
+            <label>
+                Year:
+                <select id="selectchord">
+                <option value="2010">2010</option>
+                <option value="2011">2011</option>
+                <option value="2012">2012</option>
+                <option value="2013">2013</option>
+                <option value="2014">2014</option>
+                <option value="2015">2015</option>
+                <option value="2016">2016</option>
+                <option value="2017">2017</option>
+                <option value="2018">2018</option>
+                <option value="2019">2019</option>
+                <option value="2020">2020</option>
+                <option value="2021">2021</option>
+                <option value="2022">2022</option>
+                <option value="1000">Total</option>
+                </select>
+            </label>
+        </div>
+    </p>
 
     <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="scatter.js"></script>
+    <!-- <script src="scatter.js"></script> -->
     <script src="water.js"></script>
+    <script src="chord.js"></script>
 </body>
 </html>

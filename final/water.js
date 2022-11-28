@@ -41,6 +41,8 @@ Promise.all([
 
 
   function make_chart(country) {
+      d3.selectAll("svg > g > *").remove()
+
       data_w = data[0].filter(d => d.Country === country && d.Year != 'Total')
       data_r = data[1].filter(d => d['Country of origin'] === country)
 
@@ -66,6 +68,7 @@ Promise.all([
           .call(d3.axisBottom(x));
 
       svg.append("g")
+          .attr("id", "y-ax")
           .attr("transform", `translate(${margin.left},0)`)
           .call(d3.axisLeft(y).tickSize(-innerWidth));
 
@@ -130,6 +133,8 @@ Promise.all([
               .attr("height", 0)
               .attr("y", height/2);
 
+          exit.select("")
+
           exit.select("text")
               .text("");
 
@@ -142,7 +147,7 @@ Promise.all([
 
   make_chart('Algeria');
 
-  d3.selectAll("select")
+  d3.select("#selectwater")
       .on("change", function (event) {
 
       console.log(event.target.value)

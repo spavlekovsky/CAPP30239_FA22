@@ -51,8 +51,8 @@ d3.csv("./degrees.csv").then((data) => { // data uses a matrix
     .innerRadius(innerRadius)
     .outerRadius(outerRadius);
 
-  // const ribbon = d3.ribbonArrow()
-  const ribbon = d3.ribbon()
+  const ribbon = d3.ribbonArrow()
+  // const ribbon = d3.ribbon()
     .radius(innerRadius - 0.5)
     .padAngle(1 / innerRadius);
 
@@ -61,8 +61,8 @@ d3.csv("./degrees.csv").then((data) => { // data uses a matrix
     .sortSubgroups(d3.descending)
     .sortChords(d3.descending)(matrix);
 
-  // console.log(chords) //radian system
-  // console.log(matrix)
+  console.log(chords) //radian system
+  console.log(matrix)
 
   const color = d3.scaleOrdinal(names, [d3.schemeTableau10[4], d3.schemeTableau10[6], "#333", "#333", "#333", "#333"]);
 
@@ -79,22 +79,22 @@ d3.csv("./degrees.csv").then((data) => { // data uses a matrix
     .attr("fill", d => color(names[d.source.index]))
     .attr("fill-opacity", 0.75)
     .style("mix-blend-mode", "multiply")
-    .on("mouseover", function() {
-      d3.select(this)
-        .attr("fill-opacity", 1);
-    })
-    .on("mouseout", function() {
-      d3.select(this)
-        .attr("fill-opacity", 0.75);
-    })
-    .on("click", function(e, d) {
-      let str = `${names[d.source.index]} earned 
-        ${d.source.value.toLocaleString()} ${names[d.target.index]} Degrees`;
-      d3.select("h2")
-        .html(str);
-    })
-    .append("title")
-    .text(d => `${names[d.source.index]} earned ${d.source.value.toLocaleString()} ${names[d.target.index]} Degrees`);
+    // .on("mouseover", function() {
+    //   d3.select(this)
+    //     .attr("fill-opacity", 1);
+    // })
+    // .on("mouseout", function() {
+    //   d3.select(this)
+    //     .attr("fill-opacity", 0.75);
+    // })
+    // .on("click", function(e, d) {
+    //   let str = `${names[d.source.index]} earned 
+    //     ${d.source.value.toLocaleString()} ${names[d.target.index]} Degrees`;
+    //   d3.select("h2")
+    //     .html(str);
+    // })
+    // .append("title")
+    // .text(d => `${names[d.source.index]} earned ${d.source.value.toLocaleString()} ${names[d.target.index]} Degrees`);
 
   svg.append("g") // lines on the outside
     .selectAll("g")

@@ -1,3 +1,7 @@
+const height = 400,
+    width = 600,
+    margin = ({ top: 25, right: 15, bottom: 50, left: 15 }),
+    padding = 1;
 
 
 d3.csv('../data/wb_join.csv').then((data) => {
