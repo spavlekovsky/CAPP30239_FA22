@@ -1,10 +1,10 @@
-const height = 400,
-    width = 600,
-    margin = ({ top: 25, right: 15, bottom: 50, left: 15 }),
-    padding = 1;
+// const height = 400,
+//     width = 600,
+//     margin = ({ top: 25, right: 15, bottom: 50, left: 15 }),
+//     padding = 1;
 
-
-d3.csv('../data/wb_join.csv').then((data) => {
+d3.csv('../data/wb_join_small.csv').then((data) => {
+// d3.csv('../data/wb_join.csv').then((data) => {
     const height = 400,
         width = 600,
         margin = ({ top: 25, right: 30, bottom: 50, left: 30 }),
@@ -53,6 +53,8 @@ d3.csv('../data/wb_join.csv').then((data) => {
         .attr("r", 2) // radius
         .attr("opacity", 0.75);
 
+    console.log('here')
+
     const tooltip = d3.select("body").append("div")
         .attr("class", "svg-tooltip")
         .style("position", "absolute")
@@ -61,6 +63,8 @@ d3.csv('../data/wb_join.csv').then((data) => {
     d3.selectAll("circle") // create an "event listener"
         .on("mouseover", function(event, d) { // wait until something happens then pass in the thing and the data
           d3.select(this).attr("fill", "red"); // select the thing you're on
+          console.log(d.Country)
+          d3.select(data.filter(pt => pt['Country'] === d.Country)).attr("fill", "red");
           tooltip                              // do something with the previously defined tooltip
             .style("visibility", "visible")
             .html(`${d.Country} ${timeFormat(d.Year)}`);

@@ -3,7 +3,7 @@ const height = 400,
     margin = ({ top: 25, right: 15, bottom: 50, left: 15 }),
     padding = 1;
 
-const svg = d3.select("#conflicts_refugees")
+const svg1 = d3.select("#conflicts_refugees")
     .append("svg")
     .attr("viewBox", [0, 0, width, height]);
 
@@ -41,7 +41,7 @@ Promise.all([
 
 
   function make_chart(country) {
-      d3.selectAll("svg > g > *").remove()
+      d3.selectAll("svg1 > g > *").remove()
 
       data_w = data[0].filter(d => d.Country === country && d.Year != 'Total')
       data_r = data[1].filter(d => d['Country of origin'] === country)
@@ -63,11 +63,11 @@ Promise.all([
           .range([height/2, height - margin.bottom])
           .domain(d3.extent(data_w, d => d.Count)).nice();
 
-      svg.append("g")
+      svg1.append("g")
           .attr("transform", `translate(0,${height/2})`)
           .call(d3.axisBottom(x));
 
-      svg.append("g")
+      svg1.append("g")
           .attr("id", "y-ax")
           .attr("transform", `translate(${margin.left},0)`)
           .call(d3.axisLeft(y).tickSize(-innerWidth));
@@ -94,7 +94,7 @@ Promise.all([
       //     .data(bins, d => d.x0)
       // svg.append("path")
 
-      let bar = svg.append("g")
+      let bar = svg1.append("g")
         .attr("class", "bar")
 
       bar.selectAll("g")
