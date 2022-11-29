@@ -23,7 +23,7 @@ countries = list(new_w_agg['Country'].unique())
 un_mena_raw = pd.read_csv('../data/un_mena.csv')
  un_mena_raw.replace(['Palestinian', 'Syrian Arab Rep.'], ['Palestine', 'Syria'])
 un_mena_water = un_mena_raw[un_mena_raw['Country of origin'].isin(countries)]
-un_mena_water_agg = un_mena_water[['Country of origin', 'Year', 'Total']].groupby(['Country of origin', 'Year']).aggregate(sum).reset_index().pivot(index='Country of origin', columns='Year', values='Total').reset_index()
+un_mena_water_agg = un_mena_water[['Country of origin', 'Year', 'Total']].groupby(['Country of origin', 'Year']).aggregate(sum).reset_index()
 un_mena_water_agg.to_csv('../data/un_mena_water_agg.csv')
 
 un_small = un_mena_raw[['Year', 'Country of origin', 'Country of asylum', 'Total']].rename(columns={'Country of origin': 'Origin', 'Country of asylum': 'Asylum'})

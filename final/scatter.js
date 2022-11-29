@@ -47,10 +47,10 @@ d3.csv('../data/wb_join_small.csv').then((data) => {
         .attr("fill", "black")
         .selectAll("circle")
         .data(data)
-        .join("circle") // joining dta to each circle object
-        .attr("cx", d => x(d.Origin)) // cx & cy position from *center* of x, y
+        .join("circle")
+        .attr("cx", d => x(d.Origin))
         .attr("cy", d => y(d.Asylum))
-        .attr("r", 2) // radius
+        .attr("r", 2)
         .attr("opacity", 0.75);
 
     console.log('here')
@@ -60,21 +60,21 @@ d3.csv('../data/wb_join_small.csv').then((data) => {
         .style("position", "absolute")
         .style("visibility", "hidden");
 
-    d3.selectAll("circle") // create an "event listener"
-        .on("mouseover", function(event, d) { // wait until something happens then pass in the thing and the data
-          d3.select(this).attr("fill", "red"); // select the thing you're on
+    d3.selectAll("circle")
+        .on("mouseover", function(event, d) {
+          d3.select(this).attr("fill", "red");
           console.log(d.Country)
-          d3.select(data.filter(pt => pt['Country'] === d.Country)).attr("fill", "red");
-          tooltip                              // do something with the previously defined tooltip
+        //   d3.select(data.filter(pt => pt['Country'] === d.Country)).attr("fill", "red");
+          tooltip
             .style("visibility", "visible")
             .html(`${d.Country} ${timeFormat(d.Year)}`);
         })
-        .on("mousemove", function(event) { // this part makes the text follow the mouse/hover over the point
+        .on("mousemove", function(event) {
           tooltip
             .style("top", (event.pageY - 20) + "px")
             .style("left", (event.pageX + 10) + "px");
         })
-        .on("mouseout", function() { // this part makes the point turn back to black so you don't keep all the tooltips
+        .on("mouseout", function() {
           d3.select(this).attr("fill", "black");
           tooltip.style("visibility", "hidden");
         })
