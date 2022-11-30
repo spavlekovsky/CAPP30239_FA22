@@ -37,8 +37,8 @@ Promise.all([
       data_w = data[0].filter(d => d.Country === country && d.Year != 'Total')
       data_r = data[1].filter(d => d['Country of origin'] === country)
 
-      console.log(data_w)
-      console.log(data_r)
+      // console.log(data_w)
+      // console.log(data_r)
 
       const x = d3.scaleBand()
         .domain(data_w.map(d => d.Year))
@@ -134,8 +134,7 @@ Promise.all([
 
   d3.select("#selectwater")
       .on("change", function (event) {
-
-      console.log(event.target.value)
+      // console.log(event.target.value)
       make_chart(event.target.value);
   });
 

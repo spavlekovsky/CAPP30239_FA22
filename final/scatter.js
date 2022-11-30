@@ -23,7 +23,7 @@ d3.csv('../data/wb_join_small.csv').then((data) => {
         r.Asylum = +r.Asylum
     }
 
-    console.log(data)
+    // console.log(data)
 
     let x = d3.scaleLog()
         .domain(d3.extent(data, d => d.Origin)).nice()
@@ -47,10 +47,6 @@ d3.csv('../data/wb_join_small.csv').then((data) => {
         .domain(d3.extent(data, d => d.Year))
         .interpolator(d3.interpolate("gold", "red"));
 
-    console.log(d3.extent(data, d => d.Year))
-    console.log(myColor.domain())
-    console.log(myColor('2010'))
-
     svg2.append("g")
         .selectAll("circle")
         .data(data)
@@ -73,6 +69,7 @@ d3.csv('../data/wb_join_small.csv').then((data) => {
         d3.selectAll(`.${d.Country}`).attr("fill", d => myColor(d.Year)).attr("opacity", 1).attr("r", 3);
         // .attr("fill", "red");
         console.log(this)
+        console.log(d)
         console.log(`.${d.Country.replaceAll(' ','')}`)
         //   d3.select(data.filter(pt => pt['Country'] === d.Country)).attr("fill", "red");
         tooltip
