@@ -18,7 +18,7 @@ d3.csv('../data/wb_join_small.csv').then((data) => {
     let timeFormat = d3.timeFormat("%Y")
 
     for (let r of data) {
-        r.Year = timeParse(r.Year);
+        r.Year = +r.Year
         r.Origin = +r.Origin
         r.Asylum = +r.Asylum
     }
@@ -43,17 +43,24 @@ d3.csv('../data/wb_join_small.csv').then((data) => {
         .attr("class", "y-axis")
         .call(d3.axisLeft(y).tickSize(0))
 
+    let myColor = d3.scaleSequential()
+        .domain(d3.extent(data, d => d.Year))
+        .interpolator(d3.interpolate("gold", "red"));
+
+    console.log(d3.extent(data, d => d.Year))
+    console.log(myColor.domain())
+    console.log(myColor('2010'))
+
     svg2.append("g")
-        .attr("fill", "black")
         .selectAll("circle")
         .data(data)
         .join("circle")
+        .attr("class", d => d.Country.replaceAll(' ', ''))
         .attr("cx", d => x(d.Origin))
         .attr("cy", d => y(d.Asylum))
+        .attr("fill", "#404040")
         .attr("r", 2)
         .attr("opacity", 0.75);
-
-    console.log('here')
 
     const tooltip = d3.select("body").append("div")
         .attr("class", "svg-tooltip")
@@ -62,21 +69,24 @@ d3.csv('../data/wb_join_small.csv').then((data) => {
 
     d3.selectAll("circle")
         .on("mouseover", function(event, d) {
-          d3.select(this).attr("fill", "red");
-          console.log(d.Country)
+        d3.selectAll("circle").attr("fill", "gray");
+        d3.selectAll(`.${d.Country}`).attr("fill", d => myColor(d.Year)).attr("opacity", 1).attr("r", 3);
+        // .attr("fill", "red");
+        console.log(this)
+        console.log(`.${d.Country.replaceAll(' ','')}`)
         //   d3.select(data.filter(pt => pt['Country'] === d.Country)).attr("fill", "red");
-          tooltip
+        tooltip
             .style("visibility", "visible")
-            .html(`${d.Country} ${timeFormat(d.Year)}`);
+            .html(`${d.Country} ${d.Year}`);
         })
         .on("mousemove", function(event) {
-          tooltip
+        tooltip
             .style("top", (event.pageY - 20) + "px")
             .style("left", (event.pageX + 10) + "px");
         })
-        .on("mouseout", function() {
-          d3.select(this).attr("fill", "black");
-          tooltip.style("visibility", "hidden");
+        .on("mouseout", function(event, d) {
+        d3.selectAll("circle").attr("fill", "#404040").attr("opacity", .75).attr("r", 2);
+        tooltip.style("visibility", "hidden");
         })
 
 });
