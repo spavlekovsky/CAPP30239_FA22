@@ -66,7 +66,7 @@ d3.csv('../data/wb_join_small.csv').then((data) => {
     d3.selectAll("circle")
         .on("mouseover", function(event, d) {
         d3.selectAll("circle").attr("fill", "gray");
-        d3.selectAll(`.${d.Country}`).attr("fill", d => myColor(d.Year)).attr("opacity", 1).attr("r", 3);
+        d3.selectAll(`.${d.Country.replaceAll(' ','')}`).attr("fill", d => myColor(d.Year)).attr("opacity", 1).attr("r", 3);
         // .attr("fill", "red");
         console.log(this)
         console.log(d)
