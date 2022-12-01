@@ -68,9 +68,9 @@ d3.csv('../data/wb_join_small.csv').then((data) => {
         d3.selectAll("circle").attr("fill", "gray");
         d3.selectAll(`.${d.Country.replaceAll(' ','')}`).attr("fill", d => myColor(d.Year)).attr("opacity", 1).attr("r", 3);
         // .attr("fill", "red");
-        console.log(this)
-        console.log(d)
-        console.log(`.${d.Country.replaceAll(' ','')}`)
+        // console.log(this)
+        // console.log(d)
+        // console.log(`.${d.Country.replaceAll(' ','')}`)
         //   d3.select(data.filter(pt => pt['Country'] === d.Country)).attr("fill", "red");
         tooltip
             .style("visibility", "visible")
