@@ -16,6 +16,7 @@ function chord(i) {
 
     d3.selectAll(".svg4 g").remove()
     d3.selectAll(".svg4 path").remove()
+    d3.selectAll(".svg4 text").remove()
 
   d3.json("../data/chord_changes.json").then((data) => {
     
