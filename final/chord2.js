@@ -104,7 +104,7 @@ function chord(i) {
 
       svg4.append("text")
         .attr("x", 0)             
-        .attr("y", -290)
+        .attr("y", -285)
         .attr("text-anchor", "middle")
         .attr("transform", "rotate(90)")
         .style("font-size", "14px") 
