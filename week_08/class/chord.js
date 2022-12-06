@@ -62,7 +62,7 @@ d3.csv("./degrees.csv").then((data) => { // data uses a matrix
     .sortChords(d3.descending)(matrix);
 
   console.log(chords) //radian system
-  console.log(matrix)
+  // console.log(matrix)
 
   const color = d3.scaleOrdinal(names, [d3.schemeTableau10[4], d3.schemeTableau10[6], "#333", "#333", "#333", "#333"]);
 

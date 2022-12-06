@@ -1,0 +1,16 @@
+Count of Main Country,Column Labels,,,,
+Row Labels,Casualty,Trigger,Weapon,Multiple,Grand Total
+Algeria,,7,,,7
+Egypt,5,4,,1,10
+Iraq,20,8,5,7,40
+Israel,1,,1,,2
+Jordan,,2,,1,3
+Lebanon,,2,,,2
+Libya,15,1,3,,19
+Morocco,,1,,2,3
+Palestine,33,1,3,,37
+Saudi Arabia,1,,,,1
+Syria,19,4,5,3,31
+Tunisia,1,3,,2,6
+Yemen,139,11,,1,151
+Grand Total,234,44,17,17,312

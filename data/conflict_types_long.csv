@@ -1,0 +1,49 @@
+﻿Country,Type,Number
+Algeria,Casualty,0
+Algeria,Trigger,7
+Algeria,Weapon,0
+Algeria,Multiple,0
+Egypt,Casualty,5
+Egypt,Trigger,4
+Egypt,Weapon,0
+Egypt,Multiple,1
+Iraq,Casualty,20
+Iraq,Trigger,8
+Iraq,Weapon,5
+Iraq,Multiple,7
+Jordan,Casualty,0
+Jordan,Trigger,2
+Jordan,Weapon,0
+Jordan,Multiple,1
+Lebanon,Casualty,0
+Lebanon,Trigger,2
+Lebanon,Weapon,0
+Lebanon,Multiple,0
+Libya,Casualty,15
+Libya,Trigger,1
+Libya,Weapon,3
+Libya,Multiple,0
+Morocco,Casualty,0
+Morocco,Trigger,1
+Morocco,Weapon,0
+Morocco,Multiple,2
+Palestine,Casualty,33
+Palestine,Trigger,1
+Palestine,Weapon,3
+Palestine,Multiple,0
+Saudi Arabia,Casualty,1
+Saudi Arabia,Trigger,0
+Saudi Arabia,Weapon,0
+Saudi Arabia,Multiple,0
+Syria,Casualty,19
+Syria,Trigger,4
+Syria,Weapon,5
+Syria,Multiple,3
+Tunisia,Casualty,1
+Tunisia,Trigger,3
+Tunisia,Weapon,0
+Tunisia,Multiple,2
+Yemen,Casualty,139
+Yemen,Trigger,11
+Yemen,Weapon,0
+Yemen,Multiple,1

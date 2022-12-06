@@ -5,73 +5,295 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Water Conflict and Refugees</title>
+    <style>
+
+        * {
+            font-family: Verdana, Geneva, Tahoma, sans-serif
+        }
+
+        .caption{
+            margin-left: 20px;
+            font-size: 12px;
+        }
+
+        body {
+            background-color: paleturquoise;
+        }
+
+        svg {
+            background-color: white;
+            padding: 10px;
+            border: 1px solid black;
+        }
+
+        .container {
+            max-width: 1000px;
+            background-color: lightcyan;
+            margin: auto;
+            padding: 20px;
+        }
+
+        .section-container {
+            width: 100%;
+            max-width: 1200px;
+            margin: 40px auto;
+        }
+
+        .section-container > .chart,
+        .section-container > .text-container {
+            width: 50%;
+            box-sizing: border-box;
+        }
+
+        .chart,
+        .text-container {
+            padding: 36px;
+        }
+
+        .sticky-layout {
+            display: flex;
+            align-items: flex-start;
+        }
+
+        .sticky-layout > .sticky-side {
+            width: 90%;
+            position: sticky;
+            top: 0;
+        }
+
+        .svg-tooltip {
+        background: rgba(255, 255, 255, .7);
+        border-radius: 5px;
+        color: #000;
+        display: block;
+        font-size: 12px;
+        line-height: 14px;
+        text-transform: none;
+        max-width: 320px;
+        padding: 1rem;
+        position: absolute;
+        text-overflow: ellipsis;
+        white-space: pre;
+        z-index: 300;
+        visibility: hidden;
+        box-shadow: 2px 4px 16px 0px rgba(0,0,0,0.75);
+        -webkit-box-shadow: 2px 4px 16px 0px rgba(0,0,0,0.75);
+        -moz-box-shadow: 2px 4px 16px 0px rgba(0,0,0,0.75);
+        }
+
+    
+    </style>
 </head>
 <body>
-    <header>Water Conflict and Refugee Flows in the Arab World</header>
-    <p>I was having trouble with the transitions and am still working on my second/third chart (combined).
-        I am also having trouble with my chord chart but hopefully will be able to figure these out Monday/Tuesday.</p>
-
-    <p>
-        Refugees by Country of Origin vs. Country of Asylum
-        <div id="refugees_wb"></div>
-        <a href="https://data.worldbank.org/">World Bank: Refugee Stocks</a>
-    </p>
-    <p>
-        Water Conflicts and Refugee Counts by Country
-        <div id="conflicts_refugees">
-            <label>
-                Country:
-                <select id="selectwater">
-                <option value="Algeria">Algeria</option>
-                <option value="Egypt">Egypt</option>
-                <option value="Iraq">Iraq</option>
-                <!-- <option value="Israel">Israel</option> -->
-                <option value="Jordan">Jordan</option>
-                <option value="Lebanon">Lebanon</option>
-                <option value="Libya">Libya</option>
-                <option value="Morocco">Morocco</option>
-                <option value="Palestine">Palestine</option>
-                <option value="Saudi Arabia">Saudi Arabia</option>
-                <option value="Syria">Syria</option>
-                <option value="Tunisia">Tunisia</option>
-                <option value="Yemen">Yemen</option>
-                </select>
-            </label>
-
+    <div class="container">
+        <div style="position:relative;float:right;text-align:right;margin-top: 30px;">
+            <a href="index.html">بالعربية</a><br>
+            (مجيء قريبا إن شاء الله)
         </div>
-        <a href='https://www.worldwater.org/water-conflict/'>Pacific Institute: Water Conflicts</a>
-    </p>
-    <p>
-        Refugee Flows between Countries
-        <div id="chord">
-            <label>
-                Year:
-                <select id="selectchord">
-                <option value="2010">2010</option>
-                <option value="2011">2011</option>
-                <option value="2012">2012</option>
-                <option value="2013">2013</option>
-                <option value="2014">2014</option>
-                <option value="2015">2015</option>
-                <option value="2016">2016</option>
-                <option value="2017">2017</option>
-                <option value="2018">2018</option>
-                <option value="2019">2019</option>
-                <option value="2020">2020</option>
-                <option value="2021">2021</option>
-                <option value="2022">2022</option>
-                <option value="1000">Total</option>
-                </select>
-            </label>
-        </div>
-    </p>
+        <h1 style="width:65%">Water Conflict and Refugee Flows in the Arab World</h1>
+        <h3 style="position:relative;float:right;margin-top:auto">For CAPP 30239 Data Visualization</h3>
+        <h2>Sam Pavlekovsky</h2>
+        
+        <p style="width:97.5%;margin:auto">
+            Water is essential to life. It is for that reason that it is often one of the first things to suffer during 
+            conflict. In political strife or full-on war, purposefully weaponized or accidentally destroyed, lack of 
+            access to this resource places immense stress on victims of conflict. In turn, water can be a major factor 
+            among the causes of displaced populations and refugees.<br><br>
+
+            In the Arab World, particularly the Middle East and North Africa region (MENA), many countries are 
+            predominantly arid or desert. Water is naturally a stressed resource, requiring careful management, 
+            extensive infrastructure, or diplomacy. For example, Israel has constructed extensive transport canals 
+            and irrigation systems that allow it to use water in trade with neighboring Jordan. The situation has been 
+            exacerbated by the continuing effects of climate change and by the civil wars and unrest which have spread 
+            throughout the region since the Arab Spring in 2011.<br><br>
+            
+            This page explores data related to MENA refugees and water conflicts between 2010 and 2022. It will seek to 
+            elucidate if there is an observable relationship between water-related conflicts and refugee numbers, or if 
+            water issues only exert an indirect effect.
+            </p>
+
+        <section class="section-container sticky-layout">
+            <div class="text-container">
+                <h3>The refugee crisis in the Middle East</h3>
+                <p>
+
+                </p>
+            </div>
+            <div class="chart sticky-side">
+                <div id="refugees_wb"></div>
+                <p class="caption">
+                    Mouse over to highlight a country. Years go from 2010 (yellow) to 2021 (red).<br>
+                    Source: <a href="https://data.worldbank.org/">World Bank</a>                
+                </p>
+            </div>
+        </section>
+    
+        <section class="section-container sticky-layout">
+            <div class="text-container">
+                <p>
+                    text
+                </p>
+            </div>
+            <div class="chart sticky-side">
+                <div id="chord">    
+                    <label>
+                        Year:
+                        <select id="selectchord">
+                            <option value="2011">2011</option>
+                            <option value="2012">2012</option>
+                            <option value="2013">2013</option>
+                            <option value="2014">2014</option>
+                            <option value="2015">2015</option>
+                            <option value="2016">2016</option>
+                            <option value="2017">2017</option>
+                            <option value="2018">2018</option>
+                            <option value="2019">2019</option>
+                            <option value="2020">2020</option>
+                            <option value="2021">2021</option>
+                            <option value="2022">2022</option>
+                            <option value="1000">Total</option>
+                        </select>
+                    </label>
+                </div>
+                <p class="caption">
+                    Mouse over for country names (origin & destination). You can see all years or a total with 
+                    the dropdown menu.<br>
+                    Source: <a href="https://www.unhcr.org/refugee-statistics/">United Nations</a>               
+                </p>
+            </div>
+        </section>
+
+        <section class="section-container sticky-layout">
+            <div class="chart sticky-side">
+                <div id="water2"></div>
+                <p class="caption">
+                    Yemen, which goes above the graph, has 139 water casualties. You can mouse over each bar for the numbers.<br>
+                    Source: Pacific Institute <a href="https://www.worldwater.org/water-conflict/">Water Conflict Chronology</a>               
+                </p>
+            </div>
+            <div class="text-container">
+                <h3>How does water affect refugees?</h3>
+                <p>
+                    The Pacific Institute's Water Conflict Chronology classifies conflicts according to the role water 
+                    plays: a casualty, trigger, or weapon. Casualties are by far the most common. Since water resource 
+                    and infrastructure are central to population centers, they are at high risk for damage from 
+                    missiles/bombing and other conflicts. These casualties can take a number of forms: it may lead to 
+                    complete disruption of water access, with dire implications for agriculture and hydration. However, 
+                    it can also lead to contamination of water supplies. Among the effects of the Yemeni civil war was a 
+                    severe cholera epidemic caused by a lack of safe water sources.
+                    <a href="https://www.atlanticcouncil.org/blogs/menasource/an-update-on-yemen-s-water-crisis-and-the-weaponization-of-water/">link</a><br><br>
+                    
+                    Instances where water is a trigger are generally protests or riots related to current drought 
+                    conditions and water shortages, or over planned/threatened service cuts. In some cases this 
+                    escalates into further conflict, including armed conflict. Weaponization of water often corresponds 
+                    to a battle over strategic water infrastructure points, like a source or a dam. It can also include 
+                    deliberately cutting off or destroying water access, such as in besieged cities. One drastic example 
+                    of water as a weapon was the draining of the Mesopotamian marshes in Iraq by Saddam Hussein, with the 
+                    intention of driving out and destroying the way of life for the traditional inhabitants of that area.
+                    <a href="https://www.newscientist.com/article/mg13818691-800-draining-life-from-iraqs-marshes-saddam-hussein-is-using-an-old-idea-to-force-the-marsh-arabs-from-their-home/">link</a><br><br>
+                    
+                    While most water conflicts will not produce refugees as intentionally as this environmental 
+                    disaster in the Iraqi marshes, they bring instability to daily life. The risk of failing farms, 
+                    disease, or simply running out of drinking water can strongly motivate - or force - people to migrate. 
+                    Over the past decade, we can see that countries with the most water conflicts correspond to some of 
+                    the countries with the highest numbers of refugees. The civil wars in Yemen, Libya, and Syria, as well 
+                    as the war against ISIS/ISIL in Syria and Iraq, show up in high numbers of water casualties. Palestine 
+                    also suffered many water-related casualties. Although conflict in the past decade has predominantly 
+                    occurred in the Gaza Strip, such as the 2014 Gaza war, the majority of water events reported were in 
+                    the West Bank and involved Palestinians and Israeli settlers clashing over expansion. These events 
+                    included destruction of individual buildings and orchards. In some cases, the Israeli military was 
+                    also involved.
+                </p>
+            </div>
+        </section>
+        
+        <section class="section-container sticky-layout">
+            <div class="text-container">
+                <h3>Conclusions</h3>
+                <p>
+                    The scatterplot to the right graphs number of refugees from each country over the 12-year 
+                    timespan against the number of water-related conflicts. Despite the correlation of countries 
+                    with many conflicts and many refugees observed above, there does not appear to be a strong 
+                    relationship between the two datasets. In particular, for the five countries with the most 
+                    conflicts (which are also most easily visible on this graph), Syria does not show any apparent 
+                    linear trend, while Iraq, Yemen, Palestine, and Libya demonstrate shallow slopes. Further 
+                    exploring each country with the visualization below, we can observe the refugee trends 
+                    corresponding with revolutions and war. However, although in some instances the water conflicts 
+                    and spikes in refugee numbers line up, it is neither consistent nor dramatic enough to suggest a 
+                    direct effect of water conflicts on refugee movements.
+                </p>
+            </div>
+            <div class="chart sticky-side">
+                <div id="scatter2"></div>
+                <p class="caption">
+                    Mouse over to highlight a country. Years go from 2010 (yellow) to 2021 (red).<br>
+                    Source: <a href="https://www.unhcr.org/refugee-statistics/">United Nations</a> and <a href="https://www.worldwater.org/water-conflict/">Pacific Institute</a>              
+                </p>
+            </div>
+        </section>
+
+        <section class="section-container nonstick">
+            <div style="width:97.5%;margin:auto">
+                <p>
+                    Thus I conclude that there is not a direct relationship between refugees and water conflicts. 
+                    Instead, based on the datasets available we can only characterize both as effects of the underlying 
+                    political instability and warfare in the MENA region.
+                </p>
+            </div>
+            <div style="width:80%;margin:auto">
+                <div id="conflicts_refugees">
+                    <label>
+                        Country:
+                        <select id="selectwater">
+                            <option value="Algeria">Algeria</option>
+                            <option value="Egypt">Egypt</option>
+                            <option value="Iraq">Iraq</option>
+                            <option value="Jordan">Jordan</option>
+                            <option value="Lebanon">Lebanon</option>
+                            <option value="Libya">Libya</option>
+                            <option value="Morocco">Morocco</option>
+                            <option value="Palestine">Palestine</option>
+                            <option value="Saudi Arabia">Saudi Arabia</option>
+                            <option value="Syria">Syria</option>
+                            <option value="Tunisia">Tunisia</option>
+                            <option value="Yemen">Yemen</option>
+                        </select>
+                    </label>
+                </div>
+                <p class="caption">
+                    You can change between countries with the dropdown menu.<br>
+                    Source: <a href="https://www.unhcr.org/refugee-statistics/">United Nations</a> and <a href="https://www.worldwater.org/water-conflict/">Pacific Institute</a>              
+                </p>
+            </div>
+            <div style="width:97.5%;margin:auto">
+                <p>
+                    Stepping briefly into personal reflections on this result, while I did not expect either to find or not
+                    find a relationship, I am disappointed that there was not one. Climate-related migration and refugeeism
+                    is a relatively unrecognized and unprotected category of migration, yet it is expected to continue
+                    rising due to climate change. From sea level rise displacing coastal populations, to droughts and
+                    heat waves preventing agriculture, to increasing salinity of groundwater, the potential environmental
+                    motivations for refugees keep becoming more severe. In the face of slow adaptation and mitigation
+                    measures, the least governments can do to support these populations is give them the protection they
+                    deserve and recognize the reasons for their movement.
+                </p>
+            </div>
+        </section>
+
+        <p>
+            <h3><a href='process.html'>Process</a></h3>
+        </p>
+    </div>
 
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="scatter.js"></script>
     <script src="water.js"></script>
-    <script src="chord.js"></script>
+    <script src="chord2.js"></script>
+    <script src="scatter2.js"></script>
+    <script src="water2.js"></script>
     <script src="https://d3js.org/d3-color.v1.min.js"></script>
     <script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+
 </body>
 </html>

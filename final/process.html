@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Process</title>
+    <style>
+        * {
+            font-family: Verdana, Geneva, Tahoma, sans-serif
+        }
+
+        body {
+            background-color: paleturquoise;
+        }
+
+        svg {
+            background-color: white;
+            padding: 10px;
+            border: 1px solid black;
+        }
+
+        .container {
+            max-width: 1000px;
+            background-color: lightcyan;
+            margin: auto;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div style="position:relative;float:right">
+            <a href="index.html">Back</a>
+        </div>
+        <h2>Process</h2>
+        <p>
+            Protection of our environment and natural resources, including water, is one of my long-standing interests, and 
+            so I wanted to choose a topic that would explore some aspect of the environment. The specific focus on water 
+            conflicts was inspired by the course
+            <a href="https://harris.uchicago.edu/academics/programs-degrees/courses/hydropolitics-water-policy-and-conflict-spring-2023">Hydropolitics</a>
+            taught by <a href="https://harris.uchicago.edu/directory/michael-tiboris">Dr. Michael Tiboris</a>, which I took
+            in Spring 2022 and owe for many of my sources. I wanted to fill a gap in my experience of the course: our 
+            discussions of water-related conflicts and the impact on refugees lacked data visualizations. I also was 
+            interested in a topic relating to the Arab World, which would be relevant for a translation into Arabic 
+            (coming soon).<br><br>
+
+            I found my data via the <a href="https://www.data-is-plural.com">Data is Plural</a> archives. Data is Plural 
+            released <a href="https://www.data-is-plural.com/archive/2021-07-07-edition/">a water politics edition</a> in 
+            July 2021, listing multiple databases of water conflicts. In addition, they included a 
+            <a href="https://ifi.u-tokyo.ac.jp/en/wp-content/uploads/2021/05/sdgs_wp_2020_wada_en.pdf">report comparing the 
+            different sources</a>, which I used as a guideline for my selection. Main criteria were ease of use and 
+            timescale, since I had decided to focus on the last decade (post-Arab Spring). I used a dataset collected by 
+            the <a href="https://pacinst.org">Pacific Institute</a>, an environmental NGO with a special focus on water. 
+            They publish a <a href="https://www.worldwater.org/water-conflict/">Water Conflict Chronology</a> with 
+            conflicts pulled from research and, more recently, journalism. I used refugee data from the 
+            <a href="https://www.unhcr.org/refugee-statistics/">United Nations High Commissioner for Refugees</a> 
+            data finder and the <a href="https://data.worldbank.org/">World Bank Open Data</a> portal. There are a 
+            multitude of sources for refugee-related data and the definitions used by this data, including definitions in 
+            the two sources I used. One challenge I have faced is understanding the differences between the datasets and 
+            when each will be more applicable. However, I selected these datasets again based on ease of use filtering the 
+            data and the options presented. The World Bank dataset gives total numbers, or stocks, of refugees in each 
+            country. Meanwhile, the UN data goes further in detail with country of origin and asylum, which can 
+            approximate refugee “flows” between countries. There is no missing data apparent in these two datasets, 
+            though there may be errors related to data collection due to political situations or other circumstances. 
+            However, there is missing data in the sense that some Palestinian refugees fall under the purview of a 
+            different organization, the UN Relief and Works Agency, which collects its own data. I have not identified 
+            any ethical considerations, since there is no personal information about refugees besides country of origin and 
+            UN refugee type classification.<br><br>
+
+            I had expected (or hoped for) a clearer story with my data, but when a clear relationship did not appear, 
+            I pivoted my topic to have more of an exploratory, questioning framework. In essence, I wish to present two 
+            stories: one about where refugees are and have been in the Middle East and North Africa, and one about 
+            water-related conflicts in the region. Then, I brought the two stories together to see what conclusions 
+            might be drawn.<br><br>
+            
+            I chose a scatterplot for the first chart relating to refugees in order to show the refugee stocks for country 
+            of origin and asylum. Displaying all years and all countries at the same time, it lets the viewer observe how 
+            some countries have stayed at similar levels while others changed dramatically, and in particular if the 
+            number of refugees from a country changed more or less than the number of asylum-seekers/-holders in the 
+            country. The second chart was chosen to capitalize on the idea of refugee flows, calculated simply as the 
+            change in numbers of refugees. It is not exactly complete information, since I was only able to show new 
+            refugees coming into a country and not refugees leaving (negative changes). While the exact numbers are 
+            not as apparent from this chart type (without the mouseover), it is clear to see how different countries 
+            contributed more or less in certain years to the number of refugees.<br><br>
+
+            The third chart, for water conflicts, is a stacked bar chart because I wanted to show both different 
+            categories and the overall number. I also considered grouped bars. A challenge with this plot was one 
+            “outlier” data point, Yemen. If I displayed the full height, the other countries would be dwarfed and 
+            difficult to read, so I decided to let it go off the chart and hope a reader would notice from the 
+            caption/tooltip. I would like to include a map as well showing number of conflicts, potentially by year.<br><br>
+
+            Combining the data, I used a scatterplot in order to make it very apparent if there was any sort of 
+            relationship. Most countries appear to have a slope of 0, but it is also difficult to read the plot due 
+            to the wide spread of refugee numbers and the clumping of points near the origin. A future improvement 
+            would be adding scrollable functionality. This plot allows the reader to see every country at once, but 
+            to add clarity I made the fifth plot for individual countries. For refugee numbers I chose line graphs, 
+            emphasizing year-to-year changes, while I thought of water conflicts as more discrete and chose a bar graph. 
+            I also decided that the overall visualization would be less cluttered if one of the three data series went 
+            down, and felt that bars are more intuitive than a line. The idea of this plot is to assess whether spikes 
+            in water conflicts align with more refugees from a country and/or fewer refugees in a country.<br><br>
+
+            There were, of course, plenty of coding challenges that do not necessarily bear mentioning in detail. 
+            The chord graph was the most difficult. I still have not completed it; I was unable to properly position 
+            the legend or add labeling that did not overlap (due to some countries having very small arcs). Likewise, 
+            the zooming scatterplot was too challenging for me to implement in time. I think my main takeaway was the 
+            reminder that even if data does not end up supporting a hypothesis, it can still be interesting to work with!
+        </p>
+    </div>
+</body>
+</html>

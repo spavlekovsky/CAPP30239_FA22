@@ -28,6 +28,27 @@ d3.json("../data/un_mena_chord.json").then((data) => {
         const matrix = data.filter(d => d.Year === i)[0].Data
         console.log(matrix)
 
+        let matrix2 = [
+            [0,10,0,0,0,0,6,0,0,0,30,22,0,0],
+            [0,0,0,0,219,46,5,0,0,0,51,19,25,8],
+            [20,7438,0,0,451465,9230,3251,160,0,87,750892,305,4116,2174],
+            [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+            [0,5,0,0,0,32,0,0,0,0,60,6,14,13],
+            [0,0,0,0,10,0,0,0,0,0,27,0,0,0],
+            [23,18,0,0,33,0,0,12,0,0,15,1049,0,0],
+            [0,0,0,0,0,0,0,0,0,0,13,10,0,0],
+            [4037,70049,11549,0,0,29,2710,33,0,25,57,37,529,47],
+            [0,5,7,0,0,0,0,0,0,0,11,0,0,0],
+            [5,94,1714,0,2811,5332,0,5,0,26,0,11,66,88],
+            [0,5,0,0,18,8,0,0,0,6,11,0,0,0],
+            [0,255,5,0,139,5,0,0,0,0,181,0,0,14],
+            [90000,0,0,0,0,0,0,0,0,0,61,0,0,0]
+        ]
+
+        console.log(matrix2)
+        console.log(matrix == matrix2)
+        
+
         const arc = d3.arc()
             .innerRadius(innerRadius)
             .outerRadius(outerRadius);
@@ -40,7 +61,7 @@ d3.json("../data/un_mena_chord.json").then((data) => {
         const chords = d3.chordDirected()
             .padAngle(12 / innerRadius)
             .sortSubgroups(d3.descending)
-            .sortChords(d3.descending)(matrix);
+            .sortChords(d3.descending)(matrix2);
 
         console.log(chords)
         // console.log(matrix)
@@ -85,7 +106,7 @@ d3.json("../data/un_mena_chord.json").then((data) => {
             .attr("d", arc)
             // .attr("fill", d => color(names[d.index]))
             .attr("stroke", "#fff"))
-            // .call(g => g.append("text"))
+            // .call(g => g.append("text")
             // .attr("dy", -3)
             // .append("textPath")
             // .attr("href", "#text-id")
@@ -104,3 +125,39 @@ d3.json("../data/un_mena_chord.json").then((data) => {
         updateChord(i);
     });
 });
+
+
+      // .call(g => g.append("text")
+      //   .attr("text-anchor", d => d.index == 0 ? "start" : "middle")
+      //   .attr("dy", d => d.index%3 == 0 ? -3: (d.index%3 == 1 ? -13: -24))
+      //   .append("textPath")
+      //   .attr("href", "#text-id")
+      //   // .attr("startOffset", d => d.startAngle * outerRadius)
+      //   .attr("startOffset", d => (d.startAngle + d.endAngle)/2 * outerRadius)
+      //   .text(d => names[d.index])
+      //   // .text(d => d.value)
+      //   .style("font-size", "12")
+      //   )
+
+
+
+    //   var legend = d3.legendColor()
+    //     .shape('circle')
+    //     .shapeRadius(5)
+    //     .shapePadding(25)
+    //     .orient('horizontal')
+    //     .scale(co_color)
+      
+    // svg4.append("g")
+    //     .attr("class", "legend")
+    //     .attr("x", -100)
+    //     .attr("y", -290)
+    //     .attr("transform", "rotate(90)")
+    //     .call(legend)
+    //     .style("font-size", "12px")
+      
+    // d3.selectAll(".svg4 .legend text")
+    //     .style("font-size", "10px")
+    //     .attr("text-anchor", "middle")
+    //     .attr("dx", 0)
+    //     .attr("dy", d => names.indexOf(d)%2 == 0 ? -5 : 5)

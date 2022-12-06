@@ -21,7 +21,7 @@ new_w_agg.to_csv('../data/water_agg.csv')
 countries = list(new_w_agg['Country'].unique())
 
 un_mena_raw = pd.read_csv('../data/un_mena.csv')
- un_mena_raw.replace(['Palestinian', 'Syrian Arab Rep.'], ['Palestine', 'Syria'])
+un_mena_raw.replace(['Palestinian', 'Syrian Arab Rep.'], ['Palestine', 'Syria'])
 un_mena_water = un_mena_raw[un_mena_raw['Country of origin'].isin(countries)]
 un_mena_water_agg = un_mena_water[['Country of origin', 'Year', 'Total']].groupby(['Country of origin', 'Year']).aggregate(sum).reset_index()
 un_mena_water_agg.to_csv('../data/un_mena_water_agg.csv')
@@ -34,7 +34,7 @@ un_asy = un_asy.groupby(['Year', 'Asylum']).sum().reset_index()
 un_asy['Origin'] = ['Other']*len(un_asy)
 un_asy = un_asy[['Year', 'Origin', 'Asylum', 'Total']]
 
-un_asy = un_small.loc[un_small['Origin'].isin(countries) & ~un_small['Asylum'].isin(countries)]
+un_org = un_small.loc[un_small['Origin'].isin(countries) & ~un_small['Asylum'].isin(countries)]
 un_org = un_org.groupby(['Year', 'Origin']).sum().reset_index()
 un_org['Asylum'] = ['Other'] * len(un_org)
 un_org = un_org[['Year', 'Origin', 'Asylum', 'Total']]
